@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. The windshield wiper in the middle of the image may give an illusion of a vertical line, but the lanes and the flow of traffic clearly show that the road extends from the left to the right side of the image.

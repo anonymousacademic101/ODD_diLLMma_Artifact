@@ -1,0 +1,3 @@
+YES
+
+The road we are driving on runs horizontally across the image. There are zebr[ word repalced with "horizontal crosswalk stripes] indicating a pedestrian crossing area, and typically crosswalks are horizontal to the direction of the driving lane, signifying the road the car is on is horizontal in the image. There's also a vehicle visible in the left of the image facing to the right, which aligns with the horizontal orientation of the road.

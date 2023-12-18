@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. The view indicates that the road extends from the left to the right side of the frame, with the vehicles oriented to travel along that axis. There are also horizontal lines on the road suggesting laneways that reinforce the horizontal direction of the road.

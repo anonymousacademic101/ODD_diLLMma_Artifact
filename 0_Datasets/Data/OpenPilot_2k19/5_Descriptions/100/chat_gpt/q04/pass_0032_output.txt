@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. This can be deduced from the perspective of the lane lines which extend from the bottom to the top of the image, showing that we're looking down the road rather than across it. Additionally, the positioning and movement direction of the vehicles suggest we are driving along the road, not approaching or crossing an intersection.

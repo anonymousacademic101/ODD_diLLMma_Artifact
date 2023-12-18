@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image from the perspective of the camera. The lines on the road, the direction of the vehicles, and the layout suggest we are looking at a straight stretch of road rather than an intersection.

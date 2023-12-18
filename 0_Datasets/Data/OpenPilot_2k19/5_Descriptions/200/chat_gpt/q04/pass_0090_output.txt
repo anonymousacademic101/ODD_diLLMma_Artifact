@@ -1,0 +1,3 @@
+NO
+
+The road does not appear to be an intersection. Instead, it runs horizontally across the image as part of a multi-lane highway or freeway, indicated by the parallel lanes of traffic traveling in the same direction and the barrier on the left separating the opposite lanes of traffic.

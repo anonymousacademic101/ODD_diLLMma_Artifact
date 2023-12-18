@@ -1,0 +1,3 @@
+The image is of a road at night with streetlights on both sides. There is a car parked on the side of the road with its headlights on. The road is empty and there are no other cars or pedestrians in sight.
+
+The question is asking if the road we are driving on has any construction. Based on the image, there does not appear to be any construction on the road. The streetlights are on both sides of the road, indicating that it is a well-lit road. There is also a car parked on the side of the road with its headlights on, which suggests that the road is safe to drive on. Therefore, the answer to the question is NO, there is no construction on the road.</s>

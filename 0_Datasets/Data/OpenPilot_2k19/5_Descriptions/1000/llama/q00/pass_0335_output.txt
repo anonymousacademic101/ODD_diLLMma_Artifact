@@ -1,0 +1,3 @@
+The image shows a dark and foggy road at night. The headlights of a car are visible in the distance, but the rest of the road is obscured by the fog.
+
+This image does not have poor visibility like heavy rain, snow, fog, or adverse weather conditions. The fog is the only obstacle on the road, and it is not severe enough to impair visibility. The headlights of the car are visible in the distance, indicating that the driver can see the road ahead.</s>

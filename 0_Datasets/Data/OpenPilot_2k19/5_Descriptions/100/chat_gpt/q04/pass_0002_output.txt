@@ -1,0 +1,3 @@
+YES.
+
+The road runs horizontally across the image. The lane markings and the flow of the headlights and taillights suggest a straight path rather than an intersection.

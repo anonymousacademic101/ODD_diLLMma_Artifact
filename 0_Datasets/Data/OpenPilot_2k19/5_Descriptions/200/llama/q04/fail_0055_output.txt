@@ -1,0 +1,5 @@
+The image shows a car driving down a road at night. The headlights of the car illuminate the road ahead, and the taillights of the car are visible in the rearview mirror. There are no other cars or pedestrians visible in the image.
+
+The road appears to be straight and runs horizontally across the image. There are no curves or intersections visible in the image.
+
+Therefore, the answer is NO, the road does not run horizontally across the image.</s>

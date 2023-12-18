@@ -1,0 +1,5 @@
+The image shows a car driving down a road at night. There are streetlights on either side of the road, and the car's headlights are on. The road appears to be straight and runs horizontally across the image.
+
+Is the road we are driving on an intersection, or does it run horizontally across the image?
+
+NO, the road does not run horizontally across the image. It appears to be a straight road with streetlights on either side.</s>

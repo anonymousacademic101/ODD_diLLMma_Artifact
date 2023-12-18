@@ -1,0 +1,3 @@
+YES
+
+The visual cues indicate that the road ahead is curving to the right. The layout of the visible road markings, the visible curve in the median barrier, and the trajectory of the vehicles ahead all suggest a right-hand curve in progress.

@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image from the perspective of the camera. The image shows a highway or freeway at night that the vehicle is driving along, and there's no indication of an intersection in the immediate viewpoint. The lanes of the road extend from the foreground to the background, running left to right or horizontally in the image frame.

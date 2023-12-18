@@ -1,0 +1,1 @@
+The road we are driving on is an on-off ramp. The car in front of us is turning left onto the on-off ramp, while the car behind us is turning right onto the on-off ramp. The traffic lights at the intersection are green, indicating that it is safe to turn left or right.</s>

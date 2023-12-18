@@ -1,0 +1,3 @@
+YES
+
+The road you are driving on appears to be an intersection. The arrangement of the vehicles and the visible lane markings indicate that traffic is moving on intersecting paths rather than running horizontally across the image.

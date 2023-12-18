@@ -1,0 +1,3 @@
+YES
+
+The camera lens appears to have droplets on it which is causing blurring and distortion in the image, especially noticeable in the light sources which appear smeared. This typically happens when there is moisture present on the camera lens, either from rain, snow melting, or condensation, which interferes with the clarity of the image.

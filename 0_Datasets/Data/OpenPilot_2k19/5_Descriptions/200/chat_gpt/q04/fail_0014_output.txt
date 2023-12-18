@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. This can be inferred from the positioning of the vehicles parked parallel to the curb and the layout of the median with the traffic sign, indicating it is a straight portion of a road rather than an intersection.

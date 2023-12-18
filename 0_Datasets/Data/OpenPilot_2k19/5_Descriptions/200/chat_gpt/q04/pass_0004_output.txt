@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. This can be determined because the lanes of traffic are arranged side by side in a configuration typical of a multi-lane roadway, suggesting a horizontal orientation within the frame of the image. Additionally, the flow of traffic, visible lane markings, and the position of the horizon line reinforce the horizontal layout of the road.

@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. The lane lines and traffic flow indicate the direction of travel is from the bottom to the top of the image, demonstrating a horizontal layout of the road rather than an intersection.

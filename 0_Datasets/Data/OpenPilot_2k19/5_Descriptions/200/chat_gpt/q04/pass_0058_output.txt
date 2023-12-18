@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. The view appears to be from the driver's perspective on the highway, with multiple lanes extending horizontally from the foreground to the background of the image. There is no indication of an intersection in the view presented. Instead, the road stretches out into the distance with traffic visible in lanes heading in the same direction, reinforcing it is a stretch of road rather than an intersection.

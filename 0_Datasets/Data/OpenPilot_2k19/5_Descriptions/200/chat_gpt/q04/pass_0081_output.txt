@@ -1,0 +1,3 @@
+YES
+
+The road we are driving on runs horizontally across the image. This is based on the perspective from which the photograph is taken, showing the road extending from the lower foreground to the upper middle part of the image, and the positioning of the vehicles and traffic lights which are oriented in a manner consistent with a horizontal perspective across the image.

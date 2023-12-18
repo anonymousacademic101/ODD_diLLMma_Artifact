@@ -1,0 +1,3 @@
+YES
+
+Based on the visible incline of the road ahead and the position of vehicles, which appear to be going uphill, it is appropriate to deduce that the road in the image is hilly.

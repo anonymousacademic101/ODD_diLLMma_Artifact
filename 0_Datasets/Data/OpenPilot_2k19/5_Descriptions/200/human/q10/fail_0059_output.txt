@@ -1,0 +1,1 @@
+The image was taken during the day. The sky is blue. The vehicle is currently in the right most lane and looks like it's starting to turn right. There are traffic lights which are red. There is another vehicle in the intersection traveling perpendicular to the current ego vehicle. There are no other road signs, or pedestrians.

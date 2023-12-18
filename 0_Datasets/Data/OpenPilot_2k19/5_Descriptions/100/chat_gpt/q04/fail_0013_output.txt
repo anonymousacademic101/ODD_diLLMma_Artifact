@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. This conclusion is based on the perspective of the guardrail and the angle of the road as illuminated by the vehicle's headlights. The guardrail extends across the image, indicating that it is parallel to the direction of the road, which suggests that the road runs from left to right (horizontally) in the frame rather than towards the horizon (into the image).

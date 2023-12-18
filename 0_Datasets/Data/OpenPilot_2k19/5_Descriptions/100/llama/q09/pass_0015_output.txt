@@ -1,0 +1,5 @@
+The image shows a highway at night with cars driving on it. The sky is dark and there are streetlights on the sides of the road. The road is straight and there are no obstacles in the way.
+
+Is the road we are driving on hilly?
+
+NO, the road is straight and there are no obstacles in the way.</s>

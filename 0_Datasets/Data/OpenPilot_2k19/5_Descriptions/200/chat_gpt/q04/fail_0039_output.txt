@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image from the perspective of the viewer. It extends from the bottom of the image, where the car dashboard is visible, towards the top of the image, where the road continues into the distance and meets the horizon. There is no visible intersection in this image, just a straight stretch of road.

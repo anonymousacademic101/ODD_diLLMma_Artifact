@@ -1,0 +1,3 @@
+NO
+
+The road runs horizontally across the image. The perspective from the camera's viewpoint shows the lanes extending from the bottom of the image to the horizon, indicating the direction of the road is horizontal in relation to the image frame.

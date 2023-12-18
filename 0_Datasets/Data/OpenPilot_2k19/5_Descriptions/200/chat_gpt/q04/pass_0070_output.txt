@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. This is apparent because the lanes appear to stretch from one side of the image to the other, with no immediate visible indications of the roadway intersecting perpendicularly with another road in the plane of the image. The vehicles are aligned parallel to the bottom edge of the image, consistent with horizontal movement. Traffic lights are oriented for traffic flowing in the same direction further supporting the horizontal layout of the road.

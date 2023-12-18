@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. The image shows vehicles aligned parallelly, driving in the same direction, indicative of a straight section of a road as opposed to an intersection. There are also clearly marked lanes and no intersecting traffic visible, supporting that this is a segment of a road running horizontally across the image from the viewer's perspective.

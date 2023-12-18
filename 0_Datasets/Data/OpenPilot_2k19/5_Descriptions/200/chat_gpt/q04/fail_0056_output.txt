@@ -1,0 +1,3 @@
+NO
+
+The road runs horizontally across the image. This can be inferred from the orientation of the vehicles which are stopped in a line, typical of traffic on a straight road or at a traffic signal, rather than at an intersection where vehicles might be oriented in multiple directions. The horizontal tail lights and consistent flow of traffic also suggest a horizontal roadway rather than an intersection.

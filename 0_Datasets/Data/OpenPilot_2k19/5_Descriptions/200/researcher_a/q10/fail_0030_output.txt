@@ -1,0 +1,1 @@
+The car appears to be turning right through an intersection. The image was taken during the day. The intersection has a traffic light that is red. There are cars traveling perpendicular to the current direction of travel, however they are waiting at the intersection. There are no pedestrians, or road signs. There are two solid white lines indicating where pedestrians can walk.

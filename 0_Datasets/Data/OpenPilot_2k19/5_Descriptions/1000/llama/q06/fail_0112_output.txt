@@ -1,0 +1,3 @@
+The image is of a dark road at night with streetlights on the side of the road. There is a car driving down the road with its headlights on, illuminating the road ahead. The sky is dark and there are stars visible in the night sky.
+
+The question is asking if the road we are driving on has any construction. The answer is NO because there are no construction signs or barriers visible in the image. The road appears to be in good condition and there are no potholes or other damage visible.</s>

@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image, which we can tell from the perspective of the lanes, the direction in which the vehicles are traveling, and the horizon line. An intersection would typically show crossing roads or traffic lights, signs, or markings that indicate the crossing points of different roads, none of which are visible in this image.

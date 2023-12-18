@@ -1,0 +1,3 @@
+YES
+
+The road appears to bend sharply to the right, indicating a sharp curve ahead. You can infer this from the direction of the road lines and the angle at which the road disappears from the field of view.

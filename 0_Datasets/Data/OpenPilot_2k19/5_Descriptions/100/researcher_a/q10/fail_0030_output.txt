@@ -1,0 +1,1 @@
+The car is either entering or exiting a parking space in a parking lot. The car can see several cars parked in different parking spots. After the parking spot is a medium or walkway after which there is a road with a SUV on it. The car is in a commercial zone as there are shops in the distance. There are also trees in the distance.

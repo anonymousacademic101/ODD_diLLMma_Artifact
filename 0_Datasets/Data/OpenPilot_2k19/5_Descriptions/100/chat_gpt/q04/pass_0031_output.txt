@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. The perspective of the road, the lanes, and the vehicles visible in the picture all align horizontally from the viewer's perspective, indicating that the road is extending out in front of the car we are presumably in, not intersecting from the side. There are no visible indicators of an intersection, such as traffic lights, cross traffic, or intersecting roadways.

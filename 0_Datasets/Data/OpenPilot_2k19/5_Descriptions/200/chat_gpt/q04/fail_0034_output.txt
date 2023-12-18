@@ -1,0 +1,3 @@
+YES
+
+The road we are driving on runs horizontally across the image. The orientation of the lane markings and the positions of the vehicles suggest that the road extends from the left to the right side of the frame. Also, the curb and sidewalk are parallel to the bottom edge of the image, indicating a horizontal road rather than an intersection directly in front of us.

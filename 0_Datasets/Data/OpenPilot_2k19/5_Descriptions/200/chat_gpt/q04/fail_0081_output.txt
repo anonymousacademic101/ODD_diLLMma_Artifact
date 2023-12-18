@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. This can be inferred from the perspective of the road lines and the angle of the vehicles parked on the side of the road, which are parallel to the road indicating the direction of the road's travel. The horizontal layout suggests that we are not at an intersection, but rather traveling along a straight section of roadway.

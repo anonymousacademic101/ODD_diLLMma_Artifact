@@ -1,0 +1,3 @@
+YES
+
+The road appears to run horizontally across the image based on the typical perspective from a driver's viewpoint, where roads tend to extend laterally from the lower part of a photo when moving forward. The guardrail also aligns with a horizontal direction relative to the road, reinforcing this orientation.

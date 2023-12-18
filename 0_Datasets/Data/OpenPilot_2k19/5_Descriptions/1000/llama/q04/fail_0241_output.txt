@@ -1,0 +1,5 @@
+The image shows a street at night with cars driving in both directions. There are streetlights on both sides of the road, and the cars are parked on the side of the road. The image is taken from the driver's seat of a car, and the headlights of the car are visible in the foreground.
+
+The road is running horizontally across the image, and the cars are parked on the side of the road. The streetlights are on both sides of the road, and the image is taken from the driver's seat of a car. The headlights of the car are visible in the foreground, and the road is running horizontally across the image.
+
+Therefore, the answer is NO, the road does not run horizontally across the image.</s>

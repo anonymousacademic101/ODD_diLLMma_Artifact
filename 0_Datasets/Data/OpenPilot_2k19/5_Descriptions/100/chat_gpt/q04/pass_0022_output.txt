@@ -1,0 +1,3 @@
+YES.
+
+The road is running horizontally across the image, evident from the perspective of the vehicles which align parallel to the bottom of the image frame, indicating a lateral stretch of road. Intersections typically show converging or diverging road lines, which are not present in this image.

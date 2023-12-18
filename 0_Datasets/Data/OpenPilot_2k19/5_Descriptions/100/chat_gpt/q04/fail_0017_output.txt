@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. The perspective of the photo is taken from a vehicle on the road, looking straight ahead, which means the road extends from the foreground to the background horizontally in the frame of the image. The bridge structure visible is perpendicular to the road we are on, indicating the road underneath it (which we cannot see) may be part of an intersection where it crosses the road we're on. However, the road we are driving on itself appears horizontal in the image.

@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. There's a visible traffic signal directly ahead indicating that the road we are on intersects with another road that runs perpendicular to the one we are on. The presence of stop lines on the pavement and crosswalks also indicates that this is an intersection.

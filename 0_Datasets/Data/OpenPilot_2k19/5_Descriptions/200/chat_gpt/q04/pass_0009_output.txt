@@ -1,0 +1,3 @@
+NO.
+
+The road runs horizontally across the image. This can be inferred from the perspective of the lanes and the passing lights, which suggests that we are on a stretch of road that goes straight ahead rather than an intersection where roads would cross each other.

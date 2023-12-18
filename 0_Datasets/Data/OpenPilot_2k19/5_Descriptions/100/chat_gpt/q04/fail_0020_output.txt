@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. The presence of the crosswalks, traffic signals, and the intersection layout indicate that we are approaching or are in an intersection.

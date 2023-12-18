@@ -1,0 +1,3 @@
+YES
+
+The road in the image runs horizontally across the frame. You can tell because the lanes are perpendicular to the bottom edge of the image, the cars are facing left or right rather than towards or away from the camera, and the road markings indicate traffic moving across the image from one side to the other. Additionally, the traffic lights are facing left and right, which typically control traffic moving in those horizontal directions.

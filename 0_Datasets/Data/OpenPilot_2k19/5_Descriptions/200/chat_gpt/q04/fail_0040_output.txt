@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. The lines on the road and the direction it leads show that it extends from the left to the right side of the image rather than intersecting from top to bottom. The horizontal direction is indicated by the way the road stretches across the photograph and the positioning of the arrows painted on the road, which are guiding drivers forward along the road's path.

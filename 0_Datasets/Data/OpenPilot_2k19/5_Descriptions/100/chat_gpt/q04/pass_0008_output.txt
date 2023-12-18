@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image from the perspective of the viewer. The view is from within a car, and we see another car directly ahead, indicating that we are on a road that extends left to right across the frame, rather than intersecting from another direction.

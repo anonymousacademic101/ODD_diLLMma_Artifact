@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. You can tell because the lanes are arranged parallel to the bottom edge of the image, and the traffic light is visible for vehicles moving in this horizontal direction, indicating that it is controlling the flow of traffic along this path.

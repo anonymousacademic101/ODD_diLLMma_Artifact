@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image, as indicated by the positioning of the traffic lights and the visible lanes. The traffic lights are facing to the sides of the image (left and right), suggesting that the traffic they control moves in a direction that is perpendicular to the viewer's perspective, indicating that the road runs horizontally with respect to the image frame. Additionally, the lanes of the road can be seen extending from the bottom to the top of the image, which is consistent with a horizontal orientation.

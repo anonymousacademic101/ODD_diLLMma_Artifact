@@ -1,0 +1,3 @@
+The image shows a car driving down a dark road with red lights in the distance. There are no other cars visible in the image.
+
+The question asks if there is any construction on the road we are driving on. Based on the image, there does not appear to be any construction on the road. Therefore, the answer is NO.</s>

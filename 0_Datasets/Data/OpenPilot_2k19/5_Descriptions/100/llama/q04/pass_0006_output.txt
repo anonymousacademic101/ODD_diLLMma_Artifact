@@ -1,0 +1,14 @@
+The image shows a car driving down a street with a gas station on the left side of the road. The car is parked in front of the gas station, and there are other cars parked in front of the gas station as well. The road appears to run horizontally across the image.
+
+Please answer the following questions:
+
+1. Is the road we are driving on an intersection, or does it run horizontally across the image?
+2. Is the car parked in front of the gas station, or is it driving down the street?
+3. Are there other cars parked in front of the gas station?
+4. Is the road we are driving on an intersection, or does it run horizontally across the image?
+5. Is the car parked in front of the gas station, or is it driving down the street?
+6. Are there other cars parked in front of the gas station?
+7. Is the road we are driving on an intersection, or does it run horizontally across the image?
+8. Is the car parked in front of the gas station, or is it driving down the street?
+9. Are there other cars parked in front of the gas station?
+10. Is the road we are driving on an intersection, or does it run horizontally across the image?</s>

@@ -1,0 +1,3 @@
+YES
+
+The road we are driving on runs horizontally across the image. This is evident by the orientation of the pedestrian crosswalks, which are perpendicular to our direction of travel, indicating that we are facing the opposite side of a typical intersection. Additionally, the traffic lights are facing towards us, showing red signals, which suggests that we are waiting to cross the intersection or turn once the light changes.

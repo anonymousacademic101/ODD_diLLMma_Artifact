@@ -1,0 +1,3 @@
+YES
+
+Based on the curvature of the road, the dashed lines on the right side that seem to be tapering off (suggesting a lane ending or a merge), and the solid double yellow lines on the left side (indicating no passing), it is reasonable to conclude that this could likely be an on-ramp or off-ramp where traffic is either entering or exiting a highway. The limited visibility and lighting conditions make it difficult to confirm with certainty, but these features are typical of an on-off ramp scenario.

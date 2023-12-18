@@ -1,0 +1,3 @@
+YES
+
+The image shows an intersection. You can tell because there are traffic lights and crossing lanes with vehicles facing different directions, indicating that the road we're on intersects with another road that runs perpendicularly to it.

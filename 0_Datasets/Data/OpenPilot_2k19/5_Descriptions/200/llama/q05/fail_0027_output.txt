@@ -1,0 +1,3 @@
+The image shows a car driving down a dark road with a yellow sign in the distance. The car's headlights are on, illuminating the road ahead. There are no other vehicles or pedestrians visible in the image.
+
+The question asks if the road we are driving has any restricted lanes, such as for buses or bicycles. The answer is no, as there are no other vehicles or pedestrians visible in the image, and the road appears to be empty.</s>

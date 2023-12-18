@@ -1,0 +1,3 @@
+YES
+
+The road we are driving on does not appear to be an intersection but rather runs horizontally across the image. There is no clear evidence of cross traffic indicating an intersection, and the layout of the road, as visible in the image, suggests that we are on a straight stretch of road.

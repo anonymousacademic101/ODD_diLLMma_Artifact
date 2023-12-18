@@ -1,0 +1,3 @@
+YES.
+
+The road runs horizontally across the image. The perspective provided by the roadway's lane markings, the position of the vehicles, and the overhead signs all align to indicate that you are driving along a road that extends horizontally across the field of view in the image. The overhead signs point to exits that are presumably at the sides of the road rather than straight ahead, which is typical for highways or freeways rather than intersections where signs would indicate directions to turn.

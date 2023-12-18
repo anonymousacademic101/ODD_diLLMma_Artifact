@@ -1,0 +1,1 @@
+The image was taken during the day at an intersection. There are vehicles all around the ego vehicle, indicating that traffic is heavy. The traffic lights are red, and there is a car turning in the intersection. You can see a gas station to the left. There are yield signs, and arrow signs indicating which lanes have to turn ahead. There are no pedestrians.

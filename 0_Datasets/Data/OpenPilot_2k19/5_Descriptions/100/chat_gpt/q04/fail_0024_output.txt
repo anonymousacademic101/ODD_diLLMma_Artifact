@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. We can deduce this from the orientation of the vehicles which are parallel to the bottom edge of the image, suggesting that the road is extending from the left to the right side of the frame. Also, the positioning of the headlight beams and visible lane markings corroborate that the road extends in a horizontal manner across the image.

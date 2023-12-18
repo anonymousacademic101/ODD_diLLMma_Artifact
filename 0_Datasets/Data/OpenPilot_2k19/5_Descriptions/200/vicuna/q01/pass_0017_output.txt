@@ -1,0 +1,5 @@
+​
+
+```csharp
+Yes, the camera that took this image was obstructed by a car parked in front of it.
+```

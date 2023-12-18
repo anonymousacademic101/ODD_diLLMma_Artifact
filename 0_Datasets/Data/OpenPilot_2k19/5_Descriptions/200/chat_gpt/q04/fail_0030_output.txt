@@ -1,0 +1,3 @@
+YES
+
+The road that we are driving on appears to run horizontally across the image. The perspective suggests that we are approaching an intersection where another road intersects from the side. The horizontal orientation is indicated by the positioning of the cars across the image, the direction of the road markings, and the layout of the intersection itself.

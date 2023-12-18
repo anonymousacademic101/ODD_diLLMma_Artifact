@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. This can be deduced because the lanes and road markings are running parallel to the bottom edge of the image, which suggests a perspective that aligns with the horizontal axis of the picture.

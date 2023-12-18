@@ -1,0 +1,3 @@
+YES
+
+The road you are driving on is at an intersection. This can be determined by the presence of traffic lights, road markings that indicate crossing points, and cars that are positioned perpendicular to your direction, waiting to cross or turn onto the road you are on. Additionally, the street signs indicate cross streets, confirming it's an intersection.

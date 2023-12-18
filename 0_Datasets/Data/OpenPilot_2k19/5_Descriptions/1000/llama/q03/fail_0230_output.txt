@@ -1,0 +1,5 @@
+The image shows a parking lot with several cars parked in it. The building in the background appears to be a restaurant or store. There are no people visible in the image.
+
+Is the road we are driving on an on-off ramp?
+
+NO. The image shows a parking lot with several cars parked in it, but there is no indication of an on-off ramp.</s>

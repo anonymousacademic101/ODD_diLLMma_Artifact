@@ -1,0 +1,1 @@
+The car is traveling on a 5 lane highway. To the left is a concrete barrier, and to the right a metal barrier. There is a yellow sign which cant be read from the current position of the vehicle. The sky is blue, and the image was taken during the day. There are only 5 vehicles ahead of this vehicle, indicating that the travel is light. The road is straight with no curves.

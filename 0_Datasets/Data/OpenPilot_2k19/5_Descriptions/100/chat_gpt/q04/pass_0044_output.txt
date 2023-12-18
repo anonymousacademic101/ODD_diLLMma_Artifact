@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. The lanes of traffic are parallel to the bottom of the frame, indicating a horizontal orientation. There are no visible signs of an intersection, such as crossing traffic, traffic lights, or stop signs. The vehicles are all moving in the same general direction, consistent with a segment of highway or a similar multi-lane road rather than an intersection.

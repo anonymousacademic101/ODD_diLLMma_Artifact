@@ -1,0 +1,3 @@
+The image is of a road at night with streetlights on both sides. The road is empty and there are no cars or other vehicles visible. The sky is dark and there are stars visible in the sky.
+
+The question is asking if the road has any restricted lanes, such as for buses or bicycles. The answer is no, as there are no such lanes visible in the image.</s>

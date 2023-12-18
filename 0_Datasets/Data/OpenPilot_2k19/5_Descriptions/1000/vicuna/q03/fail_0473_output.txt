@@ -1,0 +1,3 @@
+Yes, the road in the image appears to be an on-off ramp. The road has a solid white line down the middle, indicating that it is a divided road, and there are arrows on the road pointing in both directions, indicating that it is an on-off ramp. Additionally, there are cars driving on the road in both directions, which is another indication that it is an on-off ramp.
+
+![](https://source.unsplash.com/1600x900/?california,sanfrancisco,goldengatebridge,cityscape)

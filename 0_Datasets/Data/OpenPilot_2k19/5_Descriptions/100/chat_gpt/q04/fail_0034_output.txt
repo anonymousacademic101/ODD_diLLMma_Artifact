@@ -1,0 +1,3 @@
+NO
+
+The road runs horizontally across the image, not at an intersection. We can tell because the lanes appear continuous and there are no visible traffic signs or signals that usually indicate an intersection. Additionally, there are cars parked along the curb on the right, which typically wouldn't be allowed immediately adjacent to an intersection.

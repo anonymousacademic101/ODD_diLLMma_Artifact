@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. The horizontal orientation is indicated by the positioning of the vehicles and the direction of their headlights and tail lights, which are aligned parallel to the lower and upper edges of the image. This alignment suggests that the movement of traffic is from left to right or right to left across the picture, consistent with a horizontal roadway. The median with vegetation also runs horizontally in relation to the frame, reinforcing the orientation of the road.

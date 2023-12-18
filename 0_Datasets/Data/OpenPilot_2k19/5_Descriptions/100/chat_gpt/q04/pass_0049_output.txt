@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. This can be identified by the direction of the lanes and the vehicles, which are positioned perpendicular to the viewer's perspective, indicating the road is traversing the image from left to right. Additionally, the presence of traffic lights and other road infrastructure suggests that this is a surface-level horizontal road and not an underpass or intersection.

@@ -1,0 +1,3 @@
+YES
+
+The image depicts a road that runs horizontally across the frame from the perspective of the viewer. The lane markings and the flow of traffic visible in the image confirm that the perspective is along the length of the road, which extends from the bottom to the top of the image as we view it. An intersection would typically show crossing paths, which is not the case here.

@@ -1,0 +1,3 @@
+YES
+
+The road we are driving on appears to be an intersection. This can be determined from the presence of multiple traffic lights and road lanes that accommodate traffic in perpendicular directions, as indicated by the layout of the intersection and the positioning of vehicles which suggest movement in more than one direction.

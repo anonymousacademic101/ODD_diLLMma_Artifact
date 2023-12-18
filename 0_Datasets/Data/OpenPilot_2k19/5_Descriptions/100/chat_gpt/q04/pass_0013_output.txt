@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image, as indicated by the lane markings stretching from the bottom of the photo towards the horizon, which is a common perspective for roads extending into the distance. There is no visible intersection in the immediate view.

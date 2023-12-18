@@ -1,0 +1,3 @@
+NO
+
+The road runs horizontally across the image. This is indicated by the lanes of traffic moving parallel to one another in a straight direction from the foreground towards the background, consistent with typical highway perspectives. There is no visible intersection where roads cross each other perpendicularly within the visible frame of the image.

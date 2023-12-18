@@ -1,0 +1,3 @@
+The image shows a road with cars driving on it. There are hills in the background.
+
+Yes, the road is hilly.</s>

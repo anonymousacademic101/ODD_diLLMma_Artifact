@@ -1,0 +1,5 @@
+The image shows a dark road with cars driving on it at night. There are no other cars visible in the image.
+
+The road appears to be an on-off ramp, as there are no other roads visible in the image. The cars are driving on the road, which suggests that it is an on-off ramp.
+
+Therefore, the answer is YES.</s>

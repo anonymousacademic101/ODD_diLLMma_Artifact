@@ -1,0 +1,3 @@
+YES
+
+The road we are driving on runs horizontally across the image. Traffic lights and road markings indicate that this is an intersection, and the perspective of the road suggests that it is running left to right horizontally from the point of view of the image.

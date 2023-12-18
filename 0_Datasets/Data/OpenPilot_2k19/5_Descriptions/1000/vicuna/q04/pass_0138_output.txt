@@ -1,0 +1,4 @@
+​
+
+
+The road we are driving on is an intersection, as there are multiple roads intersecting at the location shown in the image. The road we are on appears to be a continuation of the road on the left side of the image, which intersects with the road on the right side of the image.

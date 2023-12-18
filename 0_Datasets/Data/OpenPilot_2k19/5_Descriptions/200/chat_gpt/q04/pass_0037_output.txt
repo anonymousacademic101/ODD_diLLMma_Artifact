@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. This can be inferred because the lanes of the road extend from the bottom of the image towards the horizon, displaying the perspective of a road that stretches horizontally in the frame of the image. Additionally, the traffic signs are facing directly towards the viewer, which implies that the flow of traffic is perpendicular to the viewer's line of sight, consistent with a horizontally oriented road relative to the image's perspective.

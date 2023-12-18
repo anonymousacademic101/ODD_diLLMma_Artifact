@@ -1,0 +1,5 @@
+The image shows a road with cars driving on it at night. The sky is dark and there are trees on either side of the road. The road is straight and there are no obstacles in the way.
+
+Yes, the road is hilly. There are hills on either side of the road and the road winds up and down them. The hills are covered in trees and there are no obstacles in the way.
+
+No, the road is not hilly. There are no hills on either side of the road and the road is straight and flat. There are no obstacles in the way.</s>

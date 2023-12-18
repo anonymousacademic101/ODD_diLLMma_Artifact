@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. We know this because we can see a vehicle in the left side of the image waiting at a stoplight that is red, indicating it's stopped at the intersection. The markings on the road in front of us also show pedestrian crossing lines, which typically are drawn across roads at intersections. Furthermore, the visible traffic lights are positioned to control traffic flow through the intersection, and we can see a green light ahead, which would be for traffic going in our current direction across the intersection.

@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. This can be determined by observing the lane markings and the flow of traffic, which indicate that the road is oriented left-to-right in the photograph, with vehicles moving parallel to the bottom edge of the image. There are also road signs facing the direction of traffic, further supporting that the direction of travel is horizontal relative to the image's perspective.

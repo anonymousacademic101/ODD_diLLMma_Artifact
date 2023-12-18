@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. This is deduced from the orientation of the vehicle which appears to be driving forward, the positioning of the traffic lights, and the visible flow of traffic on the road, which moves from left to right across the image. The traffic light for the direction we are facing is also green, indicating that our path of travel is across the image, aligning with the horizontal orientation of the road.

@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. The lanes appear parallel to the bottom edge of the photo, indicating a horizontal direction relative to the camera's perspective.

@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image from the perspective of the camera. The lanes of traffic are parallel to the bottom edge of the photo, extending from one side of the image to the other, which visually creates a horizontal orientation.

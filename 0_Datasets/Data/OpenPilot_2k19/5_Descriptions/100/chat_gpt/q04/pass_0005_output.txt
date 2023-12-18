@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. The image depicts a multi-lane road stretching horizontally from the left to the right of the frame. There is no visible intersection in the image.

@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. You can tell because the traffic lights and road signs are facing in a direction that would be perpendicular to the viewer's perspective, indicating a crossing road. Moreover, the way the vehicles are positioned confirms that the traffic flows left and right across the image rather than towards or away from the viewer, signifying a horizontal orientation of the road we are on relative to the image frame.

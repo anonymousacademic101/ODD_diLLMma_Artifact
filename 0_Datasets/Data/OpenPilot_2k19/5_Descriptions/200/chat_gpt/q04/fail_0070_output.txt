@@ -1,0 +1,3 @@
+YES
+
+The road we are driving on runs horizontally across the image. The horizontal layout is evident from the flow of the traffic and the position of the traffic lights and lanes. The image shows multiple lanes and a vehicle ahead in the same direction, indicating a horizontal roadway rather than an intersection that would typically feature crossing or turning lanes.

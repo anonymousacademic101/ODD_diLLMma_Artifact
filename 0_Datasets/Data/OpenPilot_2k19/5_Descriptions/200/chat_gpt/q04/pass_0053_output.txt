@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image from the perspective of the camera, indicating that the vehicle from which the picture was taken is driving on a road that extends from the left to the right of the frame. The image does not provide any direct indicators of an intersection being present in the immediate field of view.

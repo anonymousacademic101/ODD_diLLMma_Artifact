@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. Vehicles are seen facing perpendicular to the image's perspective, indicating a crossing path, which suggests an intersection.

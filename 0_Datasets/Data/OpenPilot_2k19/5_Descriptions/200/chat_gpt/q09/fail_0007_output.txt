@@ -1,0 +1,3 @@
+NO.
+
+We cannot determine if the road is hilly based on this image because it only shows a car waiting in a drive-thru lane of a possibly flat and paved commercial area. The surrounding features do not provide enough context to assess the topography of the larger road network.

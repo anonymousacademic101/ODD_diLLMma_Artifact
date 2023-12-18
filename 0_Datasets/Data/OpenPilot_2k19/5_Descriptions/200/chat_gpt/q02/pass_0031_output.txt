@@ -1,0 +1,3 @@
+YES
+
+The lines on the road and the orientation of the vehicles suggest we are on a curve. The angle at which the cars are positioned relative to each other and the roadside barrier indicates the road is bending to the right, making it a curve. However, determining the sharpness of the curve from this single image can be challenging, but the visible elements imply it might be a significant bend.

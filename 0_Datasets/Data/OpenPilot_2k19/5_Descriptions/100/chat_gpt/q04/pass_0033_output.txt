@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. The lanes are extending from the bottom to the top of the image, indicating that this is the direction of the roadway. The perspective of the photograph, roadside infrastructure, and orientation of the vehicle lights ahead confirm that this is a stretch of road rather than an intersection.

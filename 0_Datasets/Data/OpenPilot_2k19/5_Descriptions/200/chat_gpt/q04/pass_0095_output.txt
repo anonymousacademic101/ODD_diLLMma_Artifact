@@ -1,0 +1,3 @@
+YES
+
+You are currently at an intersection. The road markings, traffic signals, and crosswalk indicate that there are multiple paths crossing each other, which defines an intersection. The orientation of the image does not alter this definition; whether the road runs horizontally across the image or not, the presence of crossing roads and traffic control devices confirms it is an intersection.

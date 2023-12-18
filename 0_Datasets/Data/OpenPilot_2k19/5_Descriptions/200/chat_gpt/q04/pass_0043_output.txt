@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image from the perspective of the camera. We are driving on a section of road that does not show an intersection within the visible area. The lane markings are parallel to the bottom edge of the photo, indicating that the road extends from left to right across the frame.

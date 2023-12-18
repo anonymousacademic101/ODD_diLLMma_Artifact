@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. This can be determined by observing that the lanes of the road are parallel to the bottom edge of the image and that the vehicles are oriented horizontally, following the direction of the road. There is no visible intersection that would suggest the road is running perpendicularly or intersecting with another road within the frame of the image. Additionally, overhead road signs are aligned with the direction of the road, further indicating that the road is running horizontally across the image.

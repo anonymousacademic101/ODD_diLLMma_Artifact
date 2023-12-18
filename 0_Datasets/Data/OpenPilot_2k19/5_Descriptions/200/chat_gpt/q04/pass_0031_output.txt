@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. This can be deduced by the orientation of the vehicles, which are positioned parallel to the bottom and top edges of the image, indicating a horizontal flow of traffic. The yellow lane markings visible on the left-hand side further support this orientation. There's no visual evidence of an intersection in this view.

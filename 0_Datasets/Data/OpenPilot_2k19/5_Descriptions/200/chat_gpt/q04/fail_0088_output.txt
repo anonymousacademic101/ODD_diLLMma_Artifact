@@ -1,0 +1,3 @@
+YES
+
+The road we are driving on runs horizontally across the image. The perspective from which the image is taken shows the roadway extending from the bottom of the image to the top, indicating that this is the direction of travel and suggesting a horizontal layout. The traffic signals and signage visible in the image align with this orientation, indicating control over a road that intersects with the one we are on. The intersection is visible just ahead where another road crosses perpendicularly, but the road we're on itself runs horizontally relative to the image's frame.

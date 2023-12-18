@@ -1,0 +1,3 @@
+YES
+
+The road we are driving on runs horizontally across the image. This can be determined by the positioning of the pedestrian crosswalks, the orientation of the traffic lights, and the visible motion of the vehicles which indicate the directional flow of traffic, all of which suggest a perpendicular relationship to our viewpoint indicating a horizontal road across the image.

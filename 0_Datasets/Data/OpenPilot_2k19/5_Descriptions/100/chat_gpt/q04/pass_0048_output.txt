@@ -1,0 +1,3 @@
+YES
+
+We are driving on an intersection. This can be inferred due to the presence of multiple traffic signal lights governing different flows of traffic, pedestrian crossing markings on the road, and a visible crossroad in the distance where the street lights are aligned perpendicularly to the direction we are facing, indicating the crossing paths of different roadways.

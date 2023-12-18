@@ -1,0 +1,1 @@
+This is an intersection. It is unclear which direction the car is turning. There is a car in the intersection to the left of the camera. There is also a line of cars waiting to enter the intersection, with a truck waiting for a turn on red. The traffic light has a protected left turn, and is green. The trees seem to be part of a parking lot to a building with tall lights.

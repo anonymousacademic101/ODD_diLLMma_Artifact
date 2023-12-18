@@ -1,0 +1,3 @@
+YES
+
+We are looking at a parking lot, not a road, but for the purposes of answering your question, the lanes in a parking lot where one would drive are running horizontally across the image. There appear to be parking spaces that also run horizontally from the perspective of the driver, indicating that the traffic flow would be perpendicular to the alignment of the parking spaces.

@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image as we can see the lanes of traffic are parallel to the bottom edge of the photo. The orientation of the vehicles also shows that the traffic flow is from left to right, or right to left, rather than towards or away from the viewpoint, which indicates a horizontal orientation in relation to the image.

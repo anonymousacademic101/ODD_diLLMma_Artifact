@@ -1,0 +1,3 @@
+YES
+
+The road in the image does run horizontally across the frame. The evidence is that the lanes and the traffic, visible in both directions, appear to be extending left and right from the viewer's perspective. There is also a median and a stop sign that seems perpendicular to the road visible in the foreground, suggesting that this is an intersection and the main road we are approaching travels horizontally across the image.

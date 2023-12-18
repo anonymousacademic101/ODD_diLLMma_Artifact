@@ -1,0 +1,3 @@
+The image shows a street at night with streetlights on both sides of the road. There are cars parked on both sides of the road, and there is a building in the distance on the left side of the image. The sky is dark and there are stars visible in the sky.
+
+The road we are driving on is an intersection, as there are cars parked on both sides of the road and there is a building in the distance on the left side of the image. The road runs horizontally across the image.</s>

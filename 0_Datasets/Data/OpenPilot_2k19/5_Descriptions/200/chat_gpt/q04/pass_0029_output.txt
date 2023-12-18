@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image from the perspective shown. We can infer this based on the lanes marked on the road, the placement of the vehicles which are in parallel lanes, and the direction of the headlights and taillights which indicate the flow of traffic along a horizontal path rather than through an intersection.

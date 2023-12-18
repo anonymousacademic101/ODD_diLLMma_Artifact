@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. The viewpoint is from inside a car, and we are looking straight across to the other side of the road, where vehicles are aligned parallel to our line of sight, indicating that the road runs horizontally across the frame. The configuration of the gas station, road markings, and layout of surrounding infrastructure support this orientation.

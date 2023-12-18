@@ -1,0 +1,3 @@
+The image shows a street with a few cars parked on the side of the road. There are buildings on either side of the street, with a green awning over the entrance to one of them. The image is taken from the driver's seat of a car, looking down the street.
+
+The answer to your question is NO, the road does not run horizontally across the image. The image shows a street with a few cars parked on the side of the road, and buildings on either side of the street. The image is taken from the driver's seat of a car, looking down the street.</s>

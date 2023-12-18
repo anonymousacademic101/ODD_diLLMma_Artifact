@@ -1,0 +1,3 @@
+The image shows a parking lot at night with cars parked in the lot. There are no people or buildings visible in the image.
+
+The answer to your question is NO, the road is not an on-off ramp. The image shows a parking lot at night with cars parked in the lot, but there are no buildings or people visible in the image, indicating that it is not an on-off ramp.</s>

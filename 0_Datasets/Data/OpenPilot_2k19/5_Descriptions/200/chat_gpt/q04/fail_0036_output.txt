@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. It is evident because the cars are oriented in a left-right manner relative to the image frame, and the road markings are also horizontally arranged from the viewer's perspective. The overpass/bridge structure that can be seen running above the road is perpendicular to the flow of traffic on the road we are currently on.

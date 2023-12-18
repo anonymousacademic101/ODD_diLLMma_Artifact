@@ -1,0 +1,3 @@
+YES.
+
+The visible elevation changes of the road ahead, the angle of the vehicles, and the slope of the roadside environment suggest that the road has a hilly terrain.
