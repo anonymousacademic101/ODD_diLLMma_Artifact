@@ -1,0 +1,5 @@
+The image you provided shows a living room with a couch, coffee table, and TV. There is also a window on the left side of the room with curtains open. The room appears to be well lit and tidy.
+
+Is the road we are driving on hilly?
+
+NO. The image does not show any hills or mountains in the background. The road appears to be flat and straight.</s>

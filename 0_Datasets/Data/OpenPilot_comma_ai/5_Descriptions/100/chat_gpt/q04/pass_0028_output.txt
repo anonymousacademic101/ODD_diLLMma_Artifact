@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. You can tell by the way the lane markings are laid out and how the road extends from the bottom of the image towards the horizon, following a horizontal path. The perspective created by the road indicates it is a continuous stretch of road rather than an intersection.

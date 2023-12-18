@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. The perspective of the image is such that the lanes of the road extend from the bottom of the image towards the horizon in a horizontal fashion, which is characteristic of how roads are depicted in photographs when the camera is oriented in the direction of travel. There is no visible intersection that would indicate crossing traffic. Instead, the road appears to be a multi-lane highway or freeway with traffic moving in the same direction, denoted by the white lane markings and the vehicles aligned in parallel lanes.

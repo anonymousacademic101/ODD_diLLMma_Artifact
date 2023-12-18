@@ -1,0 +1,3 @@
+YES.
+
+The road runs horizontally across the image. This can be inferred because the vehicles are oriented parallel to the longer edges of the image, indicating that traffic is flowing in a direction that is left to right or right to left from the perspective of the photograph, thus making the road run horizontally across the frame of the image.

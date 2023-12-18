@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. The lane markings, traffic signs, and the direction of the vehicles visible in the image suggest that the road extends from one side of the image to the other, which is indicative of a horizontal orientation within the frame of the image.

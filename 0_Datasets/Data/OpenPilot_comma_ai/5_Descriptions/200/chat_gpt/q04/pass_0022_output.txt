@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image from the perspective of the camera. The lines on the road are parallel to the bottom edge of the photo, indicating that it is a straight stretch of road rather than an intersection.

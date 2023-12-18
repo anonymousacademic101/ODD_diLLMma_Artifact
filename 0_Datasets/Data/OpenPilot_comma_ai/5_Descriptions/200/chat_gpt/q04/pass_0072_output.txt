@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. This can be deduced from the perspective of the lanes and the direction of the vehicles, which indicate that the traffic is moving parallel to the bottom edge of the image, hence the road is horizontal within the frame of the image.

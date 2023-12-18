@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. The lanes are parallel to the bottom edge of the photo, and we can see multiple lanes with markings that indicate traffic flows from left to right or right to left. There are no visible indications that this is an intersection, such as crossing traffic lanes, traffic signals poised over cross traffic, or signage that would indicate intersecting roads.

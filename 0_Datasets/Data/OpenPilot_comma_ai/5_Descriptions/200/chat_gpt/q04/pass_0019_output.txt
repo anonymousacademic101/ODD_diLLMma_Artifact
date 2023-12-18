@@ -1,0 +1,3 @@
+NO
+
+The road does not run horizontally across the image; it extends in a direction that's into the depth of the image, from the bottom towards the top, which indicates a perspective of driving forward on the road, not across.

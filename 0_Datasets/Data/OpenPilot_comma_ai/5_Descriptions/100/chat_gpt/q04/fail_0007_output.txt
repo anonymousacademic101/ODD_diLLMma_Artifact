@@ -1,0 +1,3 @@
+YES
+
+The road depicted in the image runs horizontally across the frame. The yellow double lines indicating a two-way traffic border the road centrally and stretch horizontally across the image, which is consistent with a road running horizontally rather than being at an intersection.

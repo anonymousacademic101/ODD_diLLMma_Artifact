@@ -1,0 +1,3 @@
+NO
+
+The road appears to be running horizontally across the image. There is no indication of an intersection within the visible frame of the image; we can see lines on the road that suggest it is a through road and the perspective of the road markings indicates a horizontal path across the image.

@@ -1,0 +1,3 @@
+YES.
+
+The lane we are in is separated from the adjacent lanes by a dashed white line, which typically indicates that it's permissible to change lanes. However, the fact that the lines on the right-hand side of our lane are solid white suggests that this is a lane that is either entering or exiting the main flow of the highway—indicative of an on-off ramp. Additionally, the angle and the tapering of the lane suggest it might be merging with or diverging from the main lanes of the road, which is characteristic of on-off ramps.

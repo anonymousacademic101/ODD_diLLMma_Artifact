@@ -1,0 +1,3 @@
+The image shows a street with a green traffic light at an intersection. There is a car parked on the side of the road with its hazard lights on. The sky is dark and there are no other cars or pedestrians visible in the image.
+
+Yes, the road we are driving on is an on-off ramp. The car parked on the side of the road is indicating that it is an on-ramp, as it has its hazard lights on. The green traffic light at the intersection indicates that it is safe to turn left or right onto the on-ramp.</s>

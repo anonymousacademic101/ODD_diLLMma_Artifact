@@ -1,0 +1,1 @@
+The road is not an intersection, it runs horizontally across the image.</s>

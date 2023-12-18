@@ -1,0 +1,3 @@
+NO
+
+The road runs vertically towards the horizon in the image, not horizontally across it. This is indicated by the perspective lines of the road tapering towards a single point in the distance, which is characteristic of a road stretching out ahead rather than crossing the image from one side to the other.

@@ -1,0 +1,1 @@
+The image is of a car parked on the side of the road. The car's shadow is visible on the ground, but the car itself is not visible. Therefore, the answer is NO. The image does not have poor visibility due to heavy rain, snow, fog, or adverse weather conditions.</s>

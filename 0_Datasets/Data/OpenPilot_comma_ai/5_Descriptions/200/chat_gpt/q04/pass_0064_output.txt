@@ -1,0 +1,3 @@
+NO
+
+The road does not run horizontally across the image. The perspective of the road indicates it stretches away from the viewer, implying we are viewing it in a vertical orientation relative to the image frame.

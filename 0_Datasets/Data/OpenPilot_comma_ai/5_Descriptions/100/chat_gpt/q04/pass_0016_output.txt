@@ -1,0 +1,3 @@
+NO
+
+The road appears to be running more or less horizontally across the image from the perspective of the camera. The lanes and the orientation of the vehicles suggest that the road is stretching out into the distance rather than intersecting from left to right or right to left.

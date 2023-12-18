@@ -1,0 +1,3 @@
+YES
+
+The image appears to be rotated, which can give the illusion that the road is running vertically, but typically roads are designed to run horizontally across images when oriented correctly. Based on common road orientation, if this image were rotated to a standard orientation, the road would likely run horizontally across the image.

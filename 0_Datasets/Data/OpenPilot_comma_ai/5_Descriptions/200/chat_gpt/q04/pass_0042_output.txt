@@ -1,0 +1,3 @@
+NO
+
+The road in the image does not run horizontally across the image; instead, it extends from the foreground into the background, giving the appearance of a vanishing point perspective typical of a long, straight road. The road lines lead the viewer's eyes towards the horizon, suggesting depth and that the road is receding into the distance, rather than running horizontally across the image.

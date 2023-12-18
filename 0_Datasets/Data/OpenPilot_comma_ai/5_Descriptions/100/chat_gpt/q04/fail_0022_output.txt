@@ -1,0 +1,3 @@
+YES
+
+The road appears to run horizontally across the image.

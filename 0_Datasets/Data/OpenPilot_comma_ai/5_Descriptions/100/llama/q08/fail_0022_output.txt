@@ -1,0 +1,5 @@
+The image is of a street at night with streetlights on either side of the road. There is a car parked on the side of the road, and a person standing on the sidewalk. The sky is dark and there are stars visible in the sky.
+
+Is the road we are driving on narrow and winding?
+
+NO, the road is not narrow and winding. It is a straight road with streetlights on either side.</s>

@@ -1,0 +1,31 @@
+1. The car is parked on the side of the road.
+
+2. The car is facing in the direction of the road.
+
+3. There is a curb next to the car.
+
+4. The car is parked next to a tree.
+
+5. There is a sidewalk on the other side of the road.
+
+6. There are no other cars parked on the side of the road.
+
+7. The time of day is not specified in the image.
+
+8. The weather is not specified in the image.
+
+9. There are no pedestrians visible in the image.
+
+10. There are no road signs visible in the image.
+
+11. The road is not specified in the image.
+
+12. The color of the car is silver.
+
+13. The make and model of the car is not specified in the image.
+
+14. The license plate number of the car is not visible in the image.
+
+15. The color of the curb is not specified in the image.
+
+16. The color of the tree is not specified in the image.

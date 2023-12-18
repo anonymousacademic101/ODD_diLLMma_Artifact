@@ -1,0 +1,5 @@
+The image is of a street at night with streetlights on both sides of the road. There are trees and bushes on the side of the road, and a car is parked on the side of the road. There are no people in the image.
+
+Is the road we are driving on hilly?
+
+NO, the road is flat.</s>

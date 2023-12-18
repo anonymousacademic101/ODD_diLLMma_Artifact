@@ -1,0 +1,3 @@
+YES
+
+The road appears to run horizontally across the image based on the orientation of the vehicles, which seem to be aligned in parallel to the road's direction, suggesting a horizontal layout rather than an intersection.

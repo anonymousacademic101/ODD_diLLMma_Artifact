@@ -1,0 +1,3 @@
+YES
+
+The visible slope of the road in the image, the angle at which the parked cars are situated, and the change in elevation from foreground to background all suggest that the road is indeed hilly.

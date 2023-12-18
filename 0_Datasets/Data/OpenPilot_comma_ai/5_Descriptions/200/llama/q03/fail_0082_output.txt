@@ -1,0 +1,5 @@
+The image shows a room with a television on the wall, a couch in the corner, and a table with a lamp on it. There is also a window on the left side of the room with a view of the outside.
+
+Is the road we are driving on an on-off ramp?
+
+NO. The road is not an on-off ramp. It appears to be a regular road with two lanes going in opposite directions.</s>

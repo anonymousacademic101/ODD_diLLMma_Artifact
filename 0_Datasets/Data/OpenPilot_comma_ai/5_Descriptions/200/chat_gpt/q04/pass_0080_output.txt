@@ -1,0 +1,3 @@
+YES
+
+The perspective of the image indicates that we are looking down a road that runs horizontally across the image. The vehicles are parked along the sides of the road, which is typical for streets that run horizontally in a two-dimensional image perspective. Additionally, there is no visible cross-traffic that would indicate an intersection.

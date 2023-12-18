@@ -1,0 +1,7 @@
+The image shows a car parked on the side of the road. There are no other cars or pedestrians in the image. The road appears to be an on-off ramp, as there is a sign on the side of the road indicating that it is an on-off ramp.
+
+Is the road we are driving on an on-off ramp?
+
+Yes, the road we are driving on is an on-off ramp. The sign on the side of the road indicates that it is an on-off ramp.
+
+No, the road we are driving on is not an on-off ramp. There is no sign on the side of the road indicating that it is an on-off ramp.</s>

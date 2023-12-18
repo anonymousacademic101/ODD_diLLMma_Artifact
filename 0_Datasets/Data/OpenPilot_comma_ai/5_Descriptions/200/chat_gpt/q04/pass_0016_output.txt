@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. It appears to be a straight road rather than an intersection based on the lane markings and the continuous flow of the road into the distance.

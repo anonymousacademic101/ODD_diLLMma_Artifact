@@ -1,0 +1,5 @@
+The image shows a street with a building on the left side and a parked car on the right side. The building appears to be an office building with windows on the upper floors and a door on the ground floor. The car is parked on the sidewalk in front of the building. There are no other vehicles or pedestrians in the image.
+
+The road runs horizontally across the image, parallel to the building. It appears to be a paved road with a few parked cars on it. There are no other vehicles or pedestrians in the image.
+
+Therefore, the answer to your question is NO, the road does not run horizontally across the image.</s>

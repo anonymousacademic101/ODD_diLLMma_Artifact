@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. This is indicated by the orientation of the vehicles and the lane markings, which align with the horizontal perspective, giving the impression that we're on a road that stretches from the left to the right of the image. There are no visible signs of an intersection in the provided view.

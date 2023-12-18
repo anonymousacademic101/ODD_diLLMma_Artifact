@@ -1,0 +1,3 @@
+YES
+
+The road appears to run horizontally across the image. This is indicated by the visible lane markings, which extend from the bottom of the image toward the center, suggesting a perspective view of a road stretching horizontally from the viewer's vantage point. The orientation of the markings is consistent with a road that is being traveled upon, rather than an intersection being approached.

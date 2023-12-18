@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. The lanes of the road are parallel to the bottom edge of the photo, indicating a horizontal orientation. There does not appear to be an intersection immediately visible within the segment of the road shown in the image.

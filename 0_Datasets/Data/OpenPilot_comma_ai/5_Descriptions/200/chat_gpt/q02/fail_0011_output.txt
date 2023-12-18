@@ -1,0 +1,3 @@
+NO.
+
+The available image is not clear enough to discern the curvature of the road with high certainty. While the road might appear to bend slightly to the right, there is not enough visual information to classify it as a sharp curve.

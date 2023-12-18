@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. This is indicated by the positioning of the cars, the visible lane markings on the ground, and the angle at which the vehicles are arranged, which is typical of a road as viewed from within a car traveling along it, rather than an intersection viewed from the side.

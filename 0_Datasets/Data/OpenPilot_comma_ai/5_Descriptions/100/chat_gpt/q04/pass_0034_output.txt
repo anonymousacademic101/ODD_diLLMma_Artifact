@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. The lanes and the direction of the vehicles indicate that it is a multi-lane roadway extending from the bottom to the top of the image, which represents a horizontal direction in the perspective of the image. There is no visible intersection in the segment of the road shown in the photograph.

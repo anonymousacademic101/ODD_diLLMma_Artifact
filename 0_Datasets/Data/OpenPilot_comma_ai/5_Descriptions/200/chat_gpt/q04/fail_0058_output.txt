@@ -1,0 +1,3 @@
+NO
+
+The road does not run horizontally across the image; rather, it's an intersection as indicated by the lane markings and traffic signal posts that show different directions of traffic flow.

@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. The arrangement of vehicles and lane markings indicate that this is a typical situation where vehicles are driving in parallel, with the lane proceeding horizontally as viewed in the image.

@@ -1,0 +1,3 @@
+YES
+
+The image shows lane markings that are typical for a road divergence where an on-off ramp might be present. The arrow indicates a lane that is ending or merging, which is common in on-off ramp scenarios.

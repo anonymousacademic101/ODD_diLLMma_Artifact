@@ -1,0 +1,5 @@
+The image is a street scene at night with a car parked on the side of the road. The car's headlights are on, illuminating the dark road and surrounding buildings. There are no pedestrians or other vehicles visible in the image.
+
+Is the road we are driving on an on-off ramp?
+
+NO, the road is not an on-off ramp. The car is parked on the side of the road, indicating that it is not an on-off ramp. Additionally, there are no other vehicles or pedestrians visible in the image, which suggests that it is not an on-off ramp.</s>

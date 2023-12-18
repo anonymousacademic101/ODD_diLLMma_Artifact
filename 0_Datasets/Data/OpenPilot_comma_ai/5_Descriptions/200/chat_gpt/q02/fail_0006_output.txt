@@ -1,0 +1,3 @@
+YES
+
+The road we are driving on appears to be taking a sharp turn to the left based on the visible curvature of the road and the direction in which the lanes are leading.

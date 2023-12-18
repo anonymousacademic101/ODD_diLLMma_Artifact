@@ -1,0 +1,5 @@
+The image shows a street with a car driving down it at night. The headlights of the car are shining brightly, illuminating the road ahead. There are no other cars or pedestrians visible in the image.
+
+Is the road we are driving on hilly?
+
+NO. The road appears to be flat and straight, with no hills or curves visible in the image.</s>

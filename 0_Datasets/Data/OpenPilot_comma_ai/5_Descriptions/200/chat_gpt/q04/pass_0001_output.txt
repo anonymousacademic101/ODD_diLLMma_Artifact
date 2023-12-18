@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. You can determine this because the lanes, road markings, and vehicles are arranged in a manner consistent with horizontal movement across the frame. The lanes also appear to curve slightly to the right, suggesting a turn or bend in the road rather than an intersection.

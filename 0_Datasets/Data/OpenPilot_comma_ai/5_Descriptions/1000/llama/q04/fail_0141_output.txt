@@ -1,0 +1,5 @@
+The image shows a driveway leading up to a house. The road runs horizontally across the image.
+
+Is the road we are driving on an intersection, or does it run horizontally across the image?
+
+NO, the road does not run horizontally across the image. It is a driveway leading up to a house.</s>

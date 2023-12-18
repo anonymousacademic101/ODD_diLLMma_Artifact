@@ -1,0 +1,3 @@
+The image shows a white car driving down a street with parked cars on both sides. The license plate on the car reads "License Plate".
+
+NO, the road is not a sharp curve. It appears to be a straight road with parked cars on both sides.</s>

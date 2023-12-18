@@ -1,0 +1,19 @@
+1. The image shows a gray car driving on a city street.
+
+2. The car is driving on the right side of the road.
+
+3. There are no other vehicles on the road.
+
+4. There are no pedestrians on the road.
+
+5. The time of day is not specified in the image.
+
+6. The road is straight and there are no turns or intersections in the image.
+
+7. There are no road signs or traffic signals in the image.
+
+8. The car is driving in a residential area with trees and houses on either side of the road.
+
+9. The image does not show any hazards or obstacles on the road.
+
+10. The car appears to be driving at a moderate speed.

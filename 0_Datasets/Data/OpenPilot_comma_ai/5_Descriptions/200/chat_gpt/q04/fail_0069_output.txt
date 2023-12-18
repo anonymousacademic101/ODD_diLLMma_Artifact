@@ -1,0 +1,3 @@
+YES
+
+The road appears to run horizontally across the image. The traffic lines and the orientation of the parked cars indicate that the direction of travel is from one side of the image to the other, rather than towards or away from the viewpoint, which is characteristic of a horizontal orientation.

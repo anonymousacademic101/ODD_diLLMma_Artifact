@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image, as indicated by the direction of parked cars, the lane markings on the road, and the general perspective of the image which aligns with the horizontal orientation of a typical road scene.

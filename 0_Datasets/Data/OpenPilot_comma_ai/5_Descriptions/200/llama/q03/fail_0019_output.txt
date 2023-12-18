@@ -1,0 +1,5 @@
+The image shows a road with a fence on one side and a building on the other. There is a car parked on the side of the road.
+
+Is the road we are driving on an on-off ramp?
+
+NO, the road is not an on-off ramp. It appears to be a regular road with a fence on one side and a building on the other.</s>

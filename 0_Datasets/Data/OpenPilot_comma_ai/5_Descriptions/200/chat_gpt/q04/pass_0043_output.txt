@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image from the perspective of the camera. The lane markings are visible, leading directly away from the viewpoint, which suggests a straight path rather than an intersection.

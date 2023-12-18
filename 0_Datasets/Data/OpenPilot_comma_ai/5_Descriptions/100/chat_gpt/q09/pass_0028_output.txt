@@ -1,0 +1,3 @@
+YES
+
+The road in the image has visible changes in elevation, with the flow of the lanes indicating a descent, which suggests that it is hilly. It might not be drastically steep, but there is certainly a perceivable inclination.

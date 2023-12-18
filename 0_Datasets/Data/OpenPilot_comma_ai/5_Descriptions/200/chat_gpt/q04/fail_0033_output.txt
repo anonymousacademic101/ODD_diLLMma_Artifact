@@ -1,0 +1,3 @@
+NO.
+
+The road in the image seems to run vertically rather than horizontally across the image. We can infer this because the pedestrian is crossing the road in a direction that suggests the traffic would move up and down as opposed to left and right across the image. The orientation of the crosswalk lines also supports this observation.

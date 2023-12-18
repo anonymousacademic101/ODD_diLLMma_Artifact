@@ -1,0 +1,5 @@
+The image shows a white car parked in front of a house with a garage door open. There is a driveway leading up to the house and a sidewalk on the left side of the image. The road appears to run horizontally across the image.
+
+Is the road we are driving on an intersection, or does it run horizontally across the image?
+
+NO, the road does not appear to be an intersection. It runs horizontally across the image, leading up to the house.</s>

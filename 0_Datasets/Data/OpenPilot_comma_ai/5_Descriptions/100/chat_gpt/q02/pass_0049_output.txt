@@ -1,0 +1,3 @@
+YES.
+
+The road in the image appears to make a sharp curve to the right, as indicated by the curvature of the lane markings and guardrails.

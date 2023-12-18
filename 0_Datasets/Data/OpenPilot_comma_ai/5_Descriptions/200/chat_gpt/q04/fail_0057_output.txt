@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. There are lane markings that go left to right in the image, including a pedestrian crossing, which suggests that the direction of travel on the road is perpendicular to the view presented in the image, indicating that the road runs horizontally.

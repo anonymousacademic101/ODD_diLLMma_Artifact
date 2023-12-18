@@ -1,0 +1,5 @@
+The image shows a road with a sharp curve in the middle. The car is driving on the left side of the road and there are trees on the right side. The sky is clear and there are no other vehicles on the road.
+
+Yes, the road is a sharp curve. The car is driving on the left side of the road and there are trees on the right side. The sky is clear and there are no other vehicles on the road.
+
+No, the road is not a sharp curve. The car is driving on the left side of the road and there are trees on the right side. The sky is clear and there are no other vehicles on the road.</s>

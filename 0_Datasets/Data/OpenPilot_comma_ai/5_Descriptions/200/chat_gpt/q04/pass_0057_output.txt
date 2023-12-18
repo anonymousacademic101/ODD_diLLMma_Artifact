@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. The lane markings and perspective suggest that it is a straight roadway extending horizontally from the bottom of the image towards the top, and there is no visible intersection that changes this perception in the visible area of the photo.

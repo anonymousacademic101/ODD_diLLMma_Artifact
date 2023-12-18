@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. There is no evidence of an intersection as we can't see any cross traffic, traffic signals, stop signs, or markings that would indicate an intersection. The lanes appear continuous and are marked for traffic moving parallel to the image frame, suggesting a straight roadway rather than an intersection.

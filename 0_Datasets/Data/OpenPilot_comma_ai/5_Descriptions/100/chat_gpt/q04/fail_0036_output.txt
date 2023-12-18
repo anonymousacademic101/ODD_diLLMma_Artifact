@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. The visual clue supporting this is the presence of pedestrian crosswalk markings that typically indicate a horizontal path across roads for pedestrians to safely walk, which also implies the direction of vehicular traffic is perpendicular to the crosswalks. Additionally, there are cars parked on both sides of the road facing in a direction that would be parallel to the crosswalks, which aligns with standard parking practices on streets.

@@ -1,0 +1,5 @@
+The image shows a road with a sharp curve in the middle. The road is empty and there are no other vehicles or pedestrians in sight. The sky is cloudy and there are some trees on the side of the road.
+
+Is the road we are driving on a sharp curve?
+
+Yes, the road we are driving on is a sharp curve. The road is empty and there are no other vehicles or pedestrians in sight. The sky is cloudy and there are some trees on the side of the road.</s>

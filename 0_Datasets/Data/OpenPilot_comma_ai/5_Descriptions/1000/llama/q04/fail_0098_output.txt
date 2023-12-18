@@ -1,0 +1,7 @@
+The image shows a street with a white van parked on the side of the road. There are no other vehicles or pedestrians visible in the image. The road appears to run horizontally across the image.
+
+Please answer the following questions:
+
+1. Is the road we are driving on an intersection, or does it run horizontally across the image?
+2. Is the white van parked on the side of the road?
+3. Are there any other vehicles or pedestrians visible in the image?</s>

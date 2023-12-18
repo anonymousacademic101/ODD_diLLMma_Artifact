@@ -1,0 +1,3 @@
+NO
+
+The road runs horizontally across the image. This can be inferred from the layout of the road and the angle of the parked cars which are parallel to the road, suggesting that the path of the vehicle from which the photo was taken is traveling along the road, not across an intersection.

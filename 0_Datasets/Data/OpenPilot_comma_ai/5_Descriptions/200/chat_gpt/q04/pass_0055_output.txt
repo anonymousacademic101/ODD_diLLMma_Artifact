@@ -1,0 +1,3 @@
+NO
+
+The road appears to run horizontally across the image, rather than being an intersection. The lane markings lead straight ahead, suggesting that the road continues in the direction we are viewing rather than intersecting with another road.

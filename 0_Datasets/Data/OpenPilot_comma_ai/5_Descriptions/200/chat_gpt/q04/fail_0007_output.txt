@@ -1,0 +1,3 @@
+YES
+
+It appears that the road runs horizontally across the image based on the orientation of the parked cars and the visible pavement markings, which suggest that it's a typical street scenario rather than an intersection. The vehicles are parked parallel to the road, indicating that the direction of travel is along the plane that is horizontal in the image.

@@ -1,0 +1,3 @@
+YES
+
+The road in the image seems to be taking a sharp turn to the right beyond the stop line, as indicated by the curvature of the lane lines and the direction in which the road appears to disappear from view. Sharp curves are often marked with such indications to alert drivers to decrease speed and prepare for a turn.

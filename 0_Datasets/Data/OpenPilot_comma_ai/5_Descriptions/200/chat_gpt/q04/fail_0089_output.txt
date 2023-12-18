@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. This can be inferred from the positioning of the visible traffic lights and the headlights of the vehicles, which align in a horizontally stretched manner, suggesting that the cars are moving parallel to the bottom edge of the image, indicating the roadway runs horizontally.

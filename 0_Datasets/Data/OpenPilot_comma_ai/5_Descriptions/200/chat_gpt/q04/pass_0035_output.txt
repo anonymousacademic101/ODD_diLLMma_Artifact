@@ -1,0 +1,3 @@
+NO
+
+The road we are driving on does not run horizontally across the image; it appears to run vertically from the bottom to the top of the image as we view it, showing a perspective of the road stretching into the distance from the driver's point of view. There is no indication of an intersection within the view of the image provided.

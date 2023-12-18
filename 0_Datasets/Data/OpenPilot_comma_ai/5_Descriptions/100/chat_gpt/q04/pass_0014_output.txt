@@ -1,0 +1,3 @@
+NO
+
+The road does not run horizontally across the image; rather, it appears we are looking at a patch of grass with a road or driveway cutting vertically through the lower portion of the image.

@@ -1,0 +1,5 @@
+The image shows a street with a car driving down it. There are trees on both sides of the road, and the sky is dark and cloudy.
+
+Is the road we are driving on hilly?
+
+Yes, the road is hilly. There are hills on both sides of the road, and the car is driving up one of them.</s>

@@ -1,0 +1,5 @@
+The image shows a house with a blue roof and white walls. There is a car parked in front of the house, and a person is standing on the sidewalk in front of the house. The sky is cloudy and there are trees in the background.
+
+Is the road we are driving on an on-off ramp?
+
+NO, the road is not an on-off ramp. It appears to be a residential street with a house on one side and a car parked in front of the house. There is a person standing on the sidewalk in front of the house, but there are no signs or markings indicating that it is an on-off ramp.</s>

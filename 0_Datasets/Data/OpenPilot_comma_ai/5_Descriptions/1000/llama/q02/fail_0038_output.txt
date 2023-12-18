@@ -1,0 +1,5 @@
+The image shows a street with a building on the left side and a car parked on the right side. There are no people in the image.
+
+Is the road we are driving on a sharp curve?
+
+NO, the road is not a sharp curve. It appears to be a straight road with a building on the left side and a car parked on the right side.</s>

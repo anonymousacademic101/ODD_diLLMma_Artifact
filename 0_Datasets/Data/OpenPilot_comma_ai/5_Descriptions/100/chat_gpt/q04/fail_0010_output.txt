@@ -1,0 +1,3 @@
+YES
+
+The road appears to run horizontally across the image from the given perspective, with lines and barriers indicating the direction of traffic flow parallel to the bottom edge of the image.

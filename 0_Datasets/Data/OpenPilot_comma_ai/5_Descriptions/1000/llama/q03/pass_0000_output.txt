@@ -1,0 +1,5 @@
+The image is of an empty room with a whiteboard on the wall. There is a chair in the corner of the room and a desk with a computer on it. There are no other objects in the room.
+
+Is the road we are driving on an on-off ramp?
+
+NO. The road we are driving on is not an on-off ramp. An on-off ramp is a road that allows traffic to enter or exit a highway or interstate. The road we are driving on does not have any signs or markings indicating that it is an on-off ramp.</s>

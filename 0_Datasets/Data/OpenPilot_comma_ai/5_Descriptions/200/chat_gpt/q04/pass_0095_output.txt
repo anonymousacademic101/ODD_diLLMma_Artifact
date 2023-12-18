@@ -1,0 +1,3 @@
+YES
+
+The road appears to be running horizontally across the image as we see the traffic lanes extending from the bottom of the image towards the horizon, which is indicative of a typical straight road view. There are no clear signs of an intersection such as crossing traffic, traffic lights facing perpendicular to the viewer, or road markings that would indicate such a crossroad within the visible area of the image.

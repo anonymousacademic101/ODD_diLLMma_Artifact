@@ -1,0 +1,9 @@
+YES
+
+The road displayed in the image is an on-off ramp, commonly referred to as an exit or entrance ramp, connecting roadways to a major highway or freeway. This conclusion is based on several visual cues present:
+
+1. Lane Markings: The white dashed lines tapering and the solid white line on the right are typical of an on-off ramp, indicating an area for merging or diverging traffic.
+
+2. Signage: The presence of a yellow warning sign on the right side of the road indicates a change in the road ahead, which is often used to signal an upcoming ramp curve or merge area.
+
+3. Vehicle Behavior: The vehicles in the image are in a single line and appear to be either accelerating to merge onto a highway or decelerating having exited from one, which is consistent with the behavior of traffic on on-off ramps.

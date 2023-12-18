@@ -1,0 +1,3 @@
+YES.
+
+This roadway has dashed lines that are typically used for merge areas, such as on-off ramps where drivers may need to accelerate to merge with highway traffic or decelerate to exit. The change in line marking style from solid to dashed supports this, and the slight curvature to the right suggests it may be leading to an off-ramp from a highway.

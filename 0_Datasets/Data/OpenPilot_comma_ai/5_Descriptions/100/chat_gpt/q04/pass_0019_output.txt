@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. It can be inferred from the perspective of the road markings and the visible curve to the right that this is a continuous straight path as seen from a vehicle, not an intersection. The direction of the road guides the viewer's eye from the left to the right side of the image, confirming its horizontal layout.

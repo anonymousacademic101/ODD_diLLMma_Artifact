@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image from the viewer's perspective. The lanes are parallel to the bottom edge of the image, indicating the direction of the road is left to right, which is generally represented as horizontal on a two-dimensional plane like a photo. There is no visible intersection or cross traffic to indicate that the road is at an intersection.

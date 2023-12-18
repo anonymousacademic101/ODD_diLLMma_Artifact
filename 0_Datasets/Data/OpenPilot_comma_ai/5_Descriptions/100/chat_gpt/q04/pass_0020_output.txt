@@ -1,0 +1,3 @@
+NO
+
+The road in the image appears to run vertically from the bottom to the top of the image rather than horizontally across it. It does not seem to be an intersection based on the visible lane markings and the continuous flow of the road. The perspective is from a vehicle's point of view, heading straight down the road.

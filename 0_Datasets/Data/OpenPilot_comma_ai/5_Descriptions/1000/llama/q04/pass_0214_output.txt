@@ -1,0 +1,3 @@
+The image shows a street at night with a car driving down it. There are two arrows on the road, one pointing to the left and the other pointing to the right. The image is taken from the perspective of a driver driving down the street.
+
+The answer to your question is NO, the road does not run horizontally across the image. The arrows on the road point to the left and the right, indicating that the road is an intersection.</s>

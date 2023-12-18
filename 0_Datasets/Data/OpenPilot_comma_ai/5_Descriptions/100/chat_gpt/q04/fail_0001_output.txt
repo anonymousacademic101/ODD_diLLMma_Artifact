@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image, as indicated by the perspective and layout of the lanes and pavement markings, which extend from one side of the image to the other, consistent with a typical road view rather than an intersection.

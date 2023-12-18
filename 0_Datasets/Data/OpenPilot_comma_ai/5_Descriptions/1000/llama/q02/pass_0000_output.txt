@@ -1,0 +1,5 @@
+The image shows a person sitting at a desk in a room with a whiteboard on the wall. The person is wearing a white shirt and black pants, and has a pen in their hand. There is a stack of papers on the desk in front of them. The room appears to be a classroom or office.
+
+Is the road we are driving on a sharp curve?
+
+NO</s>

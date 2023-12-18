@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image from the perspective of the camera. The lanes and the vehicles are aligned in a way that suggests the road extends from one side of the image to the other, perpendicular to the direction the image is viewed, which is typical for how roads are depicted in photos taken from a vehicle moving on them.

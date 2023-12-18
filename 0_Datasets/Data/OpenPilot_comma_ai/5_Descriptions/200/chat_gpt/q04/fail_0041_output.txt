@@ -1,0 +1,3 @@
+YES
+
+The road appears to run horizontally across the image, as indicated by the orientation of the curb and the barrier, which align parallel to the bottom edge of the image, suggesting a horizontal road rather than an intersection.

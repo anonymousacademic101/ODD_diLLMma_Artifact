@@ -1,0 +1,9 @@
+❓ Is the road we are driving on have any restricted lanes, for example for buses, or bicycles?
+
+YES
+
+The road we are driving on has restricted lanes for buses and bicycles.
+
+NO
+
+The road we are driving on does not have any restricted lanes for buses or bicycles.

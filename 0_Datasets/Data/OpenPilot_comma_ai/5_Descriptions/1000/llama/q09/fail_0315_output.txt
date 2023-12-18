@@ -1,0 +1,5 @@
+The image shows a parking lot with several cars parked in it. There are no people or buildings visible in the image.
+
+Is the road we are driving on hilly?
+
+NO, the road is flat and there are no hills visible in the image.</s>

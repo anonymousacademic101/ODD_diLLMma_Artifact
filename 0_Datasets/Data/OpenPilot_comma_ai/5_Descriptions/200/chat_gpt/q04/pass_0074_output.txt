@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image from the perspective of the camera. There's a visible white line that extends from the bottom to the top of the image, which indicates the direction of the road as it appears in the frame. There is no visible intersection within the frame where another road crosses or meets the one we are on.

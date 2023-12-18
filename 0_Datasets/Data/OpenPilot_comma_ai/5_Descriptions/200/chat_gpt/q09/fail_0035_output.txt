@@ -1,0 +1,3 @@
+YES
+
+Based on the angle of the car in the image and the visible slope of the road, it appears that the road has an incline, indicating that it is hilly.

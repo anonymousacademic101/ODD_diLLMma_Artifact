@@ -1,0 +1,5 @@
+The image shows a dark and empty street at night with streetlights on both sides of the road. There are no cars or pedestrians visible in the image.
+
+Is the road we are driving on an on-off ramp?
+
+NO, the road is not an on-off ramp. It appears to be a regular street with streetlights on both sides.</s>

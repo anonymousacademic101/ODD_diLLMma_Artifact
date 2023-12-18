@@ -1,0 +1,3 @@
+NO
+
+The road runs vertically across the image from this perspective, as we can see the lanes of traffic heading away from the bottom of the image toward the top. There is no visible intersection that would indicate the road runs horizontally across the image.

@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image as we can see the lane markings continue straight ahead. There is no evident intersection within the visible frame of the image.

@@ -1,0 +1,3 @@
+YES
+
+The road contains a painted "STOP" sign which typically is at an intersection to indicate that drivers must come to a halt before proceeding. It's not possible to see the full context of the surroundings to explicitly determine the layout of the intersection or if the road also runs horizontally across the image as well.

@@ -1,0 +1,3 @@
+NO
+
+The road runs vertically across the image from the bottom to the top, following the usual orientation for pictures of roads. We can tell this because the cars are aligned in a manner consistent with driving forward into the scene, and the tail lights indicate that the cars are facing away from the viewpoint. If the road were horizontal, the cars would appear sideways, which is not the case here.

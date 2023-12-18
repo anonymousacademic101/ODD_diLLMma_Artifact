@@ -1,0 +1,3 @@
+YES.
+
+The road appears to be inclining upwards, which indicates that there is at least one hill on this road.

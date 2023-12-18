@@ -1,0 +1,3 @@
+NO
+
+The road in the image appears to run diagonally across the image from the bottom to the top right corner, rather than horizontally across or forming an intersection in the visible frame.

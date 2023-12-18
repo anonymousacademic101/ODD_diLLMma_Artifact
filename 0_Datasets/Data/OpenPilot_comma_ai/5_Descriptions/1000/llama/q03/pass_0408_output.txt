@@ -1,0 +1,5 @@
+This is an image of a road with cars driving on it. There are trees and buildings visible in the background.
+
+Is the road we are driving on an on-off ramp?
+
+NO, the road is not an on-off ramp. It appears to be a regular road with cars driving on it.</s>

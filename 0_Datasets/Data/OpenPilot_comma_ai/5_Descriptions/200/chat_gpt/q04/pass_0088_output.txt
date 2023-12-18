@@ -1,0 +1,3 @@
+NO
+
+The road does not run horizontally across the image; instead, it extends into the distance, giving a perspective view of the road as you are driving along it. This creates the effect of a vanishing point on the horizon, which indicates depth and the direction of travel, rather than a horizontal cross-section.

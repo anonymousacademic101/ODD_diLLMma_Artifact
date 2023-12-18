@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. You can tell because the lanes and road markings extend from the bottom of the image directly towards the horizon, which is characteristic of how roads appear in images when they are running horizontally from the perspective of the viewer. There is no evident intersection within the frame of the image, just a straight road with multiple lanes.

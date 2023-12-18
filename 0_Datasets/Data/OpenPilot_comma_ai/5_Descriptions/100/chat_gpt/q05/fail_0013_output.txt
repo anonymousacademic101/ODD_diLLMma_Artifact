@@ -1,0 +1,3 @@
+NO
+
+The image is blurry and lacks detail that would allow for the accurate determination of lane restrictions such as designated lanes for buses or bicycles. Due to the low quality and lack of visibility, it's not possible to confirm the presence of any restricted lanes.

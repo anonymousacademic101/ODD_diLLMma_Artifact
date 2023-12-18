@@ -1,0 +1,5 @@
+The image shows a road with a traffic light at the intersection. There are cars parked on the side of the road, and a pedestrian is walking on the sidewalk. The road appears to be an on-off ramp, as there is a sign on the side of the road indicating that it is an on-off ramp.
+
+Yes, the road is an on-off ramp. The sign on the side of the road indicates that it is an on-off ramp, and there are cars parked on the side of the road. The pedestrian is walking on the sidewalk, indicating that the road is an on-off ramp.
+
+No, the road is not an on-off ramp. There is no sign on the side of the road indicating that it is an on-off ramp, and there are no cars parked on the side of the road. The pedestrian is walking on the sidewalk, indicating that the road is not an on-off ramp.</s>

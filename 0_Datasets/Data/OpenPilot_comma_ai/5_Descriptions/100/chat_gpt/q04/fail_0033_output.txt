@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. You can tell because the road spans the width of the photo from left to right and vehicles are parked in a manner that suggests they are aligned with the direction of the road, indicating a horizontal orientation.

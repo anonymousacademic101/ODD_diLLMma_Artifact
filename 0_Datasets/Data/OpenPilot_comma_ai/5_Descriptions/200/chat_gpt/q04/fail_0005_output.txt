@@ -1,0 +1,3 @@
+NO
+
+The road appears to run horizontally across the image. There are lane markings visible that typically indicate the direction of traffic flow, and there seems to be no indication of an intersection such as traffic lights, multiple converging road lines, or other typical intersection markers within the visible section of the image.

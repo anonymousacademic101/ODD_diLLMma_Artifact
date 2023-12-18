@@ -1,0 +1,3 @@
+YES.
+
+The visible part of the road in the image is bending sharply to the left, indicating a sharp curve. The angle of the curve isn't visible in its entirety, but from the portion that is shown, it is evident that the direction of the road is changing significantly, which would require a notable steering adjustment when driving.

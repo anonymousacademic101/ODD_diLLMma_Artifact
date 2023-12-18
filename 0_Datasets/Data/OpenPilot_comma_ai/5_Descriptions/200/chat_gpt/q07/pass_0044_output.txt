@@ -1,0 +1,3 @@
+YES
+
+There is a vehicle approaching the camera with its headlights on, which appear quite bright in the image and could be classified as an "extremely bright light" due to the contrast with the surrounding darkness. Since the environment is dark, the headlights stand out prominently, indicating they are bright relative to other elements in the scene.

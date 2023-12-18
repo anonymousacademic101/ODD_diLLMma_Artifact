@@ -1,0 +1,3 @@
+The image shows a dark road with a car driving down it at night. There are streetlights on either side of the road, and the car's headlights illuminate the road ahead. The car appears to be traveling at a moderate speed, and there are no other vehicles visible in the image.
+
+The question asks if there are any restricted lanes on the road, such as for buses or bicycles. Based on the image, there do not appear to be any restricted lanes on the road. The car is driving in the middle of the road, and there are no other vehicles or signs indicating that there are any restricted lanes. Therefore, the answer to the question is NO.</s>

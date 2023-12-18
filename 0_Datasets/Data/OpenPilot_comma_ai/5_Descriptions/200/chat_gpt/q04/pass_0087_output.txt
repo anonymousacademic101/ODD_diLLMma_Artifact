@@ -1,0 +1,3 @@
+YES
+
+The road appears to run horizontally across the image based on the perspective and the visible lane markings.
