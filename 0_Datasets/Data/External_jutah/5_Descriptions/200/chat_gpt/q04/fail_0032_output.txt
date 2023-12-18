@@ -1,0 +1,3 @@
+YES
+
+The road we are driving on runs horizontally across the image. You can tell because the vehicles are oriented parallel to the bottom edge of the photo, which suggests that the road they are on is running left to right in this perspective. Additionally, the arrangement of traffic lights and the visible STOP sign both support typical traffic control placements for a road running horizontally in the frame.

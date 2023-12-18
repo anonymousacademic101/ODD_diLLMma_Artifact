@@ -1,0 +1,3 @@
+YES
+
+The road we are driving on runs horizontally across the image. This is indicated by the positioning of the traffic lights, which are facing the camera, showing that they control traffic moving from left to right and vice versa in the image. Additionally, the layout of the intersection, visible lane markings, and the orientation of vehicles support this conclusion.

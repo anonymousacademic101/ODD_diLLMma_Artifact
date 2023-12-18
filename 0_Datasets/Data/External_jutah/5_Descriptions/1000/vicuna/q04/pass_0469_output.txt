@@ -1,0 +1,7 @@
+​
+
+
+YES, the road we are driving on is an intersection.
+
+
+NO, the road does not run horizontally across the image.

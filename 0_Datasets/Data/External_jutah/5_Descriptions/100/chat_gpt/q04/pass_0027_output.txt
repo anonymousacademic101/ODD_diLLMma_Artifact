@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image, as we can see the traffic is flowing from left to right or from right to left across the frame, and the road itself extends from one side of the image to the other in a horizontal fashion.

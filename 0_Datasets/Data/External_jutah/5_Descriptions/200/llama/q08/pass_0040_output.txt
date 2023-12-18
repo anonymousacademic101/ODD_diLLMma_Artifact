@@ -1,0 +1,5 @@
+The image shows a dirt road running through a field of tall grass and weeds. The road is narrow and winding, with potholes and cracks in the surface. There are old buildings on either side of the road, with broken windows and doors. The sky is overcast and there are dark clouds in the distance.
+
+Is the road we are driving on narrow and winding?
+
+YES</s>

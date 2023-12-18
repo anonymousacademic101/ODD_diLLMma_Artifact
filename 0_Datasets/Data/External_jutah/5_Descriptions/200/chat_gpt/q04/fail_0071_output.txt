@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. There are no visible indicators of an intersection within the frame of the image, such as traffic lights, intersecting street lines, or multiple directions of travel. The road appears to be a single street running from one side of the image to the other, with buildings on either side, suggesting a straight, horizontal path rather than an intersection.

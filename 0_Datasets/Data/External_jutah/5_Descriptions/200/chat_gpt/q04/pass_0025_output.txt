@@ -1,0 +1,3 @@
+YES
+
+The road is at an intersection. This can be deduced from the presence of traffic lights, crosswalk markings, and signs that typically control traffic flow at intersections. Additionally, the lanes are divided by stop lines where vehicles would halt at a red light, which further indicates that the roadway intersects with another.

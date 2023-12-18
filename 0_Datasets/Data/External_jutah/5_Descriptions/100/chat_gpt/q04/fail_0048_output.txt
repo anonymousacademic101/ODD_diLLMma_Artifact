@@ -1,0 +1,3 @@
+YES.
+
+The road runs horizontally across the image. You can tell because the lines on the road are perpendicular to the direction of the vehicles, which suggests that the road is extending from left to right or horizontally as viewed in the image. Additionally, the crosswalk lines and traffic light orientation confirm the direction of the road relative to the image.

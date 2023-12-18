@@ -1,0 +1,3 @@
+YES
+
+The road we are driving on runs horizontally across the image. This is indicated by the perspective of the road converging towards the horizon, the positioning of vehicles in parallel lanes, and the horizontal road markings consistent with a typical road layout viewed from within a vehicle.

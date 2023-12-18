@@ -1,0 +1,3 @@
+YES
+
+The road in the image is running horizontally across the picture from the perspective of the camera. You can tell because the vehicles are oriented parallel to the bottom edge of the image, and the storefronts line up along the street in a horizontal fashion. Additionally, the road continues from the left side of the image to the right side, confirming that it runs horizontally in the image.

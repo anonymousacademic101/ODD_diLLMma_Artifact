@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. The vehicles and the road markings indicate traffic is moving to the left and right, which shows a horizontal orientation relative to the image's perspective. The presence of traffic signals and crosswalks also indicates an intersection where the road we are on intersects with another road.

@@ -1,0 +1,3 @@
+1. Is the road we are driving on an intersection, or does it run horizontally across the image?
+
+YES. The road appears to run horizontally across the image.

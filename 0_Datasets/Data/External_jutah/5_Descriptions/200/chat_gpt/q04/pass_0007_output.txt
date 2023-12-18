@@ -1,0 +1,3 @@
+YES
+
+The road in the image runs horizontally across the frame. This can be determined by observing that the lanes on this road stretch from the left to the right side of the image, featuring a crosswalk that is perpendicular to the lanes, indicating that the perspective of the photograph is along the road's width, not its length.

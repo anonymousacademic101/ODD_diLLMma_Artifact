@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. You can tell from the positioning of the crosswalk lines, traffic signals, and directional signs that the road is laid out horizontally from the perspective of the image. The street signs and traffic lights are oriented to control traffic moving in this horizontal direction, indicating that the main thoroughfare we're looking at is running left to right across the image. The intersection is implied where the side road (visible to the right) intersects the main road.

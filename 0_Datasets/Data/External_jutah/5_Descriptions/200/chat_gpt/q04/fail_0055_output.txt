@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image as evidenced by the way the traffic lanes and vehicles are oriented, and the positioning of the traffic lights which are facing towards the perspective of the camera, indicating a forward motion on a horizontal path.

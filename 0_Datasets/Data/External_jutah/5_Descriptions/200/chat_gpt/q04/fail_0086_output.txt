@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. We can tell because the traffic lanes, as shown by the cars' positions and road markings, extend from the left side of the image to the right side. Furthermore, the traffic lights are perpendicular to this direction, indicating they control traffic moving along the horizontal road in the image.

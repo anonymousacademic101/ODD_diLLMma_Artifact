@@ -1,0 +1,23 @@
+1. The image shows a row of parked cars on the side of a city street.
+
+2. The cars are parked on the right side of the road, facing in the direction of traffic.
+
+3. There are no cars driving on the road in the image.
+
+4. There are no pedestrians visible in the image.
+
+5. The road appears to be straight and level.
+
+6. There are no road signs visible in the image.
+
+7. The time of day is not specified in the image.
+
+8. The weather is not specified in the image.
+
+9. The image does not provide any information about the speed limit on the road.
+
+10. The image does not provide any information about any hazards or obstacles on the road.
+
+11. The image does not provide any information about the traffic density on the road.
+
+12. The image does not provide any information about the type of vehicles parked on the side of the road.

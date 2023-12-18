@@ -1,0 +1,3 @@
+YES
+
+The road on which the viewpoint is situated runs horizontally across the image. There are several indicators to confirm this: The positioning of the vehicles is parallel with the bottom edge of the image, pedestrian crosswalk lines are perpendicular to the traffic flow suggesting a horizontal road, traffic lights are facing the direction that controls traffic moving left to right in the image, and the general layout of the intersection with the visible opposing traffic lanes supports the conclusion that the road runs horizontally across the image.

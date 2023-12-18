@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. This perspective is consistent with the typical view from a vehicle driving on the road, with the road extending from the bottom of the image to the horizon, parallel to the bottom edge of the photograph.

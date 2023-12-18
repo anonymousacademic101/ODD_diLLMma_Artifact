@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. We can tell because the vehicles are arranged in parallel lanes and the perspective of the road indicates it stretches from the left to the right side of the image. Additionally, traffic signals are visible straight ahead, which usually control traffic moving in a horizontal direction across the picture plane.

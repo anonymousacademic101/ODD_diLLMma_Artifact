@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. This is indicated by the linear features of the road: the curb running left to right, the parallel positioning of street lamps, and the positioning of the building, which faces the road directly, suggesting that the road passes in front of the building in a horizontal orientation relative to the frame of the image.

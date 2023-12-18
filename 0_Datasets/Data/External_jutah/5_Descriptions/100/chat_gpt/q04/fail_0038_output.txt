@@ -1,0 +1,3 @@
+YES
+
+The road we are on intersects with another road. This can be inferred because there is a "One Way" sign to the right indicating the direction of travel for the intersecting road, and the island with landscaping in the middle of the intersection suggests a typical intersection design where traffic flows around it.

@@ -1,0 +1,5 @@
+The image shows a street with cars parked on the side of the road. There are palm trees and buildings in the background.
+
+Is the road we are driving on hilly?
+
+NO, the road is flat.</s>

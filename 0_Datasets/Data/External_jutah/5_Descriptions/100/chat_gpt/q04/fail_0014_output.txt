@@ -1,0 +1,3 @@
+YES
+
+We are driving on a road that runs horizontally across the image. This can be determined by analyzing the orientation of the vehicles, the road markings, and the positioning of the traffic lights which are designed to control traffic moving horizontally across the frame.

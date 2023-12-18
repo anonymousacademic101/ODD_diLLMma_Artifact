@@ -1,0 +1,3 @@
+The image shows a city street with tall buildings on either side. There are cars parked on the side of the road and pedestrians walking on the sidewalk. The sky is clear and sunny.
+
+NO, the road is not hilly.</s>

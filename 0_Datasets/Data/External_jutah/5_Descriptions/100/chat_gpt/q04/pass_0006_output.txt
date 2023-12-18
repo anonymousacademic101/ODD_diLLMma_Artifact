@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. The perspective of the photo is such that the lanes on the road extend from the bottom to the top of the image, showing the roadway's horizontal layout.

@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. The vehicles are oriented left-to-right and right-to-left, suggesting the traffic flow is side by side along the horizontal plane of the image. There does not appear to be an intersection within the field of view of the image.

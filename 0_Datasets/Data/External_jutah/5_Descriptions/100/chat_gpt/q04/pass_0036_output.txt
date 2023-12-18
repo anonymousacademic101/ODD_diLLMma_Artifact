@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. This is indicated by the orientation of parked cars on the side of the road, the flow of traffic, and the placement of road markings which suggest a horizontal movement of vehicles from the perspective of the image. Additionally, there are STOP markings painted on the road surface, which often indicate the approach to an intersection, further suggesting that the road we are on intersects with another.

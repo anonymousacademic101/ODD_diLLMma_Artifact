@@ -1,0 +1,3 @@
+NO
+
+The road is not an intersection, as there are no other roads intersecting it within the field of view of the image. It runs horizontally across the image.

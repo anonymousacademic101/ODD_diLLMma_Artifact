@@ -1,0 +1,3 @@
+YES.
+
+There is at least one restricted lane on the road we are driving. The indication for this lane is on the far right side of the image, where there is pavement marking that reads "LANE" with a symbol of a bicycle above it. This typically designates a bicycle lane, which is a restricted lane intended for the exclusive use of bicycles.

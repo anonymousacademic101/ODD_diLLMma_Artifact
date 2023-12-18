@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. The perspective of the lanes leading towards the vanishing point, the positioning of the vehicles, and the direction they're facing all indicate that the road is laid out horizontally relative to the frame of the picture. There are no visible signs of an intersection in the immediate foreground.

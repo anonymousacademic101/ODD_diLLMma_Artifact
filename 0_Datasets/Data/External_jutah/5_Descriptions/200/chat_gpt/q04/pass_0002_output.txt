@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. The perspective of the image, the positioning of the lane markings, and the curvature of the road support this observation. The road bends to the right, and the horizontal flow of the road can be seen extending across the frame of the image from left to right.

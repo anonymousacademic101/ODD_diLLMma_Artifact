@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. The vehicles are parked perpendicular to the road and the lanes of traffic are parallel to the bottom frame of the image, indicating that the road extends horizontally rather than leading into an intersection.

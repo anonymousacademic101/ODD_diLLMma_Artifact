@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. You can tell because the vehicles are aligned in a horizontal orientation relative to the frame of the picture, and the buildings on either side establish a clear left-to-right (horizontal) perspective. An intersection would present additional roads crossing or joining, but this scene shows a continuous flow of traffic along a single thoroughfare without visible cross traffic at this specific point.

@@ -1,0 +1,3 @@
+YES
+
+The road on which we are positioned runs horizontally across the image. You can tell this by observing the orientation of the parked cars, the pedestrian crosswalk lines which are perpendicular to the road we are on, and the positioning of the traffic lights that are controlling the flow of traffic across the intersection. The angle of view and perspective in the image aligns with the horizontal road, with buildings flanking either side of the street.

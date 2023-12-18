@@ -1,0 +1,3 @@
+NO
+
+The road runs horizontally across the image. This can be inferred because the lanes and the flow of traffic, as indicated by the lane markings, show that vehicles would move from one side of the image to the other, rather than towards or away from the viewpoint of the image, which would be the case if the road were an intersection we were driving on.

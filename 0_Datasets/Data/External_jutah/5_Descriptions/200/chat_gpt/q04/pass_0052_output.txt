@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. The orientation of the vehicles and the road markings indicate that the traffic flow is parallel to the bottom edge of the image, which aligns with a horizontal direction from the perspective of the image.

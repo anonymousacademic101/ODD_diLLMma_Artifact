@@ -1,0 +1,3 @@
+YES
+
+The road we are driving on is running horizontally across the image. If you look at the orientation of the cars and the pedestrian crosswalk markings, you can see that they are aligned in a way that indicates the road is traversing from left to right or right to left across the image frame. The cars are positioned to move parallel to the bottom edge of the photo, which further indicates the horizontal orientation of the road.

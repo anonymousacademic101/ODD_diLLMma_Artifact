@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. The lanes, the direction of the parked cars, and the positioning of traffic signals all indicate a horizontal flow rather than being an intersection.

@@ -1,0 +1,3 @@
+YES
+
+Based on the visual information available in the image, it appears that there is a lane designated for buses on the road we are driving on. The lane is indicated by road markings and signage that are partially visible in the image but can be inferred from the bus symbol seen on the road surface at the far end, as well as a sign on the right edge that seems to have a symbol typically used to denote a bus lane. However, I do not see any clear markings or signs indicating a restricted bicycle lane in the part of the road shown in the image.

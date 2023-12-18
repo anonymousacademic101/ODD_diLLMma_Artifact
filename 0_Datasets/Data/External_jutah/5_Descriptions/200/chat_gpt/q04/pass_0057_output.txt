@@ -1,0 +1,3 @@
+YES
+
+The road visible in the image runs horizontally across the frame. It is not an intersection in the immediate view of the camera; rather, we can see traffic lights up ahead where an intersection may be, but in the given image, the road we are "on" extends from the foreground to the background without any visible intersection cutting across it from the perspective shown.

@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image, as observed from the orientation of vehicles and traffic signals which are parallel to the bottom edge of the image, indicating the flow of traffic along the horizontal plane of the picture.

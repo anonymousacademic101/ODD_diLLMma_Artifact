@@ -1,0 +1,3 @@
+YES
+
+Based on the visible traffic signs and lane markings in the provided image, there is a lane with a restriction. There is a sign above the leftmost lane indicating "LEFT LANE MUST TURN LEFT," which means this lane is restricted for vehicles that intend to turn left only, and therefore, it is not for through traffic. No specific bus or bicycle lanes are visible in this image, but the left turn restriction is a type of lane usage regulation.

@@ -1,0 +1,3 @@
+YES
+
+The image shows a road that runs horizontally across the frame, evident from the traffic lights stretching across it and the cars aligned along its width, indicating that we are facing an intersection where our road crosses another.

@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. This can be determined because the lanes are parallel to the bottom edge of the photograph, and the traffic is flowing from one side of the image to the other, which would not be the case if this were a depiction of an intersection where the roads would intersect each other at some angle.

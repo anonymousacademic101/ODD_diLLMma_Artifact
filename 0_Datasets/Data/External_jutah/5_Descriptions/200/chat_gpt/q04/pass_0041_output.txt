@@ -1,0 +1,3 @@
+YES
+
+The road in the image runs horizontally across the image from the perspective of the viewer. The vehicles are parked and positioned parallel to the length of the road, and the road itself extends from the foreground to the background in a straight line, indicating that it is indeed running horizontally across the image. There are no visible signs of an intersection in the part of the road we can see.

@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. You can tell because of the orientation of the vehicles which are parallel to the bottom edge of the photo, suggesting that their direction of travel is left to right or right to left, which would be horizontal in the frame of the image.

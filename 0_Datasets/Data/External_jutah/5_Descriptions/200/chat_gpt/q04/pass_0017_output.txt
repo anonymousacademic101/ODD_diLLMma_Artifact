@@ -1,0 +1,3 @@
+YES
+
+The road we are driving on runs horizontally across the image. The perspective of the photograph is taken from within a vehicle on the road, and the lanes of traffic, visible road markings, and orientation of surrounding vehicles and structures all align with a horizontal viewpoint relative to the image's frame.

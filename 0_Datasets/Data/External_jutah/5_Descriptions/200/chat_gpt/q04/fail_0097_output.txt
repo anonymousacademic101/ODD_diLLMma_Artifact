@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image from the perspective of the camera. The traffic lanes, the position of the vehicles, the pedestrian crossing, and the direction of the traffic lights all indicate that traffic moves left and right across the image, making the road a horizontal element in the photo.

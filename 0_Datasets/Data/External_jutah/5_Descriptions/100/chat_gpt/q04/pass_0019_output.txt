@@ -1,0 +1,3 @@
+NO.
+
+The road is not running horizontally across the image; it is an intersection. This can be determined by the fact there are traffic lights facing multiple directions, vehicles are oriented to travel in perpendicular paths, and there are road markings for a crosswalk and stop lines which indicate an intersection. The presence of traffic lights and lane divisions also confirms that it is a governed traffic intersection.

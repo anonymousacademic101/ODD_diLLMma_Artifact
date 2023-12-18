@@ -1,0 +1,9 @@
+This is a view of a city street on a rainy day. The road is wet and there are no cars on it. The buildings on either side of the road are old and made of brick. There is a traffic light at the intersection, but no cars are waiting at it. There are no pedestrians on the street. The time of day is morning.
+
+Facts:
+
+* The road is wet from rain.
+* The buildings on either side of the road are old and made of brick.
+* There is a traffic light at the intersection, but no cars are waiting at it.
+* There are no pedestrians on the street.
+* The time of day is morning.

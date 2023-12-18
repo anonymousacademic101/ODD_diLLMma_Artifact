@@ -1,0 +1,4 @@
+​
+
+
+The road we are driving on appears to be a horizontal road running across the image, rather than an intersection.

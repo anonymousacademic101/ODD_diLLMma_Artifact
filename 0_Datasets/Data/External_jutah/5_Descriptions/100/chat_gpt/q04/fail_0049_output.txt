@@ -1,0 +1,3 @@
+YES
+
+The road appears to be at an intersection. This can be inferred from the traffic lights, pedestrian crossings in multiple directions, the roads visible in the image that intersect, and the vehicles that are stopped, indicating that traffic is managed here for crossing paths.

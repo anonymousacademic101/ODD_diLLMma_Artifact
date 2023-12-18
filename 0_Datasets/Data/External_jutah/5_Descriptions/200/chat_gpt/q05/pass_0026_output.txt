@@ -1,0 +1,3 @@
+YES
+
+There is a sign visible on the right side of the image that indicates a restriction. The sign shows a symbol of a bicycle, suggesting that the lane is reserved for bicycle traffic. Therefore, there is at least one restricted lane designated for bicycles on the road we are viewing.

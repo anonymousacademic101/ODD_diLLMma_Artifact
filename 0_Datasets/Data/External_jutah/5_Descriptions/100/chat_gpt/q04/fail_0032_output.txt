@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. This can be inferred because the vehicles are aligned in a manner that suggests they are driving on lanes that extend from the left side to the right side of the image, indicating the horizontal direction of the road within the frame of the photo.

@@ -1,0 +1,3 @@
+YES
+
+The visible road runs horizontally across the image; there is no visible intersection within the frame of the image provided. The lanes and lane markings extend from one side of the image to the other, indicating that the road is continuous in a horizontal direction relative to the perspective of the image.

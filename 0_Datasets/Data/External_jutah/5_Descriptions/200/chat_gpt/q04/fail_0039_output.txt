@@ -1,0 +1,3 @@
+NO
+
+The image shows a road that appears to run horizontally across it rather than depicting an intersection. There is no clear indication of another road crossing the one we see, which would be necessary to classify this as an intersection.

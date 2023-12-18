@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. There are multiple lanes of traffic, traffic lights, and vehicles oriented in a way that indicates the road extends from the left to the right side of the frame, rather than coming towards or leading away from the point of view directly. Moreover, the visible traffic lights and their placement suggest regulation of traffic flow along this horizontal axis. The lines on the road and the direction the vehicles face support the horizontal layout of the road.

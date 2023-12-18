@@ -1,0 +1,3 @@
+YES
+
+The road in the image is taking a noticeable curve to the left, as indicated by the direction of the lane lines and the curvature of the roadside barriers. The yellow road signs also suggest a need for caution, typically placed near curves to alert drivers of upcoming changes in road direction.

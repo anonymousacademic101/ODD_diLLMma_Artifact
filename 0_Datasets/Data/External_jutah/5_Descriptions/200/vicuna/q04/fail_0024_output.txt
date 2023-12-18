@@ -1,0 +1,4 @@
+​
+
+
+The road we are driving on is a horizontal road that runs across the image.

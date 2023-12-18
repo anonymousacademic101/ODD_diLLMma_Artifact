@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. The scene shows vehicles and traffic signs oriented parallel to the bottom edge of the image, suggesting the direction of travel is left-to-right or right-to-left from this perspective, indicating a horizontal layout. There's no clear evidence of an intersection within the immediate view.

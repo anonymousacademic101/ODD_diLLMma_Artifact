@@ -1,0 +1,3 @@
+YES
+
+The road in the image runs horizontally across the image from the perspective of the camera. The vehicles are aligned in a manner that suggests they are travelling parallel to the bottom edge of the image, indicating a horizontal orientation of the road. There are also marked lanes and a crosswalk that extend horizontally across the image, further supporting this observation.

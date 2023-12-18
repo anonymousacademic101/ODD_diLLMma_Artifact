@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. There is no visible intersection in this frame; the road continues straight from left to right without any crossing streets or intersecting traffic paths in view.

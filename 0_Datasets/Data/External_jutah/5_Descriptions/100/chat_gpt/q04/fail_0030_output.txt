@@ -1,0 +1,3 @@
+Yes.
+
+The road runs horizontally across the image, evident from the crosswalk lines and the orientation of the parked cars which are perpendicular to the camera's viewpoint. Also, the green traffic light facing the camera indicates the direction of the traffic flow along the road we are "driving" on.

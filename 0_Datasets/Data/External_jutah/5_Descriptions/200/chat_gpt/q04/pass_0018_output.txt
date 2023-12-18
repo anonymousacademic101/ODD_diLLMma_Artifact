@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. The orientation of the vehicles, the traffic signals, and the layout of the road with lane markings all indicate that the roadway extends from the left to the right side of the photograph, which corresponds to a horizontal direction relative to the image's frame.

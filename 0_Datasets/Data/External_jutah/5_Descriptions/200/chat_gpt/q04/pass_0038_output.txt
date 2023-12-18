@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. This can be determined by observing the orientation of the vehicles, traffic lights, and the road itself leading into the cityscape in the distance, all of which indicates a horizontal roadway within the image frame.

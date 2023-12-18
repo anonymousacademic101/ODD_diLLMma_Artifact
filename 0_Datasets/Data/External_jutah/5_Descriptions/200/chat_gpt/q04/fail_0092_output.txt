@@ -1,0 +1,3 @@
+YES
+
+This road appears to be at an intersection because we can see another road crossing from left to right in front of us, with the presence of signal lights, crosswalks, and road markings that indicate crossing traffic paths.

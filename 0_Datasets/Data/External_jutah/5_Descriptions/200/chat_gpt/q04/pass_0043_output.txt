@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. This can be inferred from the orientation of the vehicles, traffic signals, and the street layout which are all typical characteristics of a horizontal roadway perspective in the image.

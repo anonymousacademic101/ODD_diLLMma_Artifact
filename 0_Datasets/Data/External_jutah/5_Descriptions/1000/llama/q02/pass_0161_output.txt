@@ -1,0 +1,5 @@
+The image shows a street with buildings on either side. There are no cars or people in the image. The sky is clear and blue.
+
+Is the road we are driving on a sharp curve?
+
+NO, the road is not a sharp curve. It appears to be a straight road with buildings on either side.</s>

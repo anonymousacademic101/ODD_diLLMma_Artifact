@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image from the perspective of the photo. The lanes of traffic extend from the foreground to the background, with vehicles positioned facing toward and away from the viewpoint, suggesting that the road's orientation is horizontal in the image frame.

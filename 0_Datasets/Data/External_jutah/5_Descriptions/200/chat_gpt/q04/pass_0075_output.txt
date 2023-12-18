@@ -1,0 +1,3 @@
+YES
+
+This road runs horizontally across the image. The lanes with vehicles and the streetcar tracks are parallel with the bottom edge of the image, indicating a horizontal orientation from this viewpoint.

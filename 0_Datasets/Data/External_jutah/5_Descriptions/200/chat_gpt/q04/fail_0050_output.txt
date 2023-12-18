@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. The vehicles are parallel to the bottom edge of the image, indicating the direction of the road's travel is from left to right or right to left horizontally across the frame.

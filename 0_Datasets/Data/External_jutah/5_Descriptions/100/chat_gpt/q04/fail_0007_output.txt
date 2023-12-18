@@ -1,0 +1,3 @@
+YES
+
+The road is part of an intersection. The traffic signals, crosswalks, and the orientation of the visible vehicles indicate that the roads intersect each other at this point, thus forming an intersection. There is also a sign indicating "ROAD CLOSED" which refers to one of the intersecting streets, further confirming this is an intersection.

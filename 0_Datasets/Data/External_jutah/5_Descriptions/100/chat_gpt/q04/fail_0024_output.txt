@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. You can tell because the lines on the road are parallel to the bottom edge of the photo, indicating a horizontal direction.

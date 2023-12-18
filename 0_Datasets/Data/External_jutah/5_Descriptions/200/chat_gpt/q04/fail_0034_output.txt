@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. You can infer this from the direction of the lane markings on the road, which suggest traffic flows from left to right or right to left, and the positioning of the traffic light which controls the traffic flow on this horizontal road. Moreover, the fact that there are no visible lane markings indicating a continuation of the road into the background or foreground supports the conclusion that this is not an intersection.

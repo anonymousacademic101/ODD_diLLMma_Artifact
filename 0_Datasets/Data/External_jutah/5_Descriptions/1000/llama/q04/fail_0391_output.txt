@@ -1,0 +1,5 @@
+The image shows a pink building with white shutters and a white pickup truck parked in front of it. There are palm trees on either side of the road, and a few cars are parked on the side of the road. The road appears to run horizontally across the image.
+
+Is the road we are driving on an intersection, or does it run horizontally across the image?
+
+NO, the road does not run horizontally across the image. It appears to be a residential street with a few cars parked on the side of the road.</s>

@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. You can tell because the cars are aligned in a left-to-right direction relative to the frame of the image, traffic signals are facing in the direction that would control traffic moving horizontally, and the "ONE WAY" sign also indicates the direction of traffic flow is horizontal to the frame of the image.

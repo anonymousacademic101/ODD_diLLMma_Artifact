@@ -1,0 +1,3 @@
+YES
+
+The road we are driving on runs horizontally across the image. The horizontal positioning is evident from the perspective and the layout of the road, the vehicles, and the surroundings in the image, which are aligned parallel to the bottom edge of the photo, indicating a horizontal orientation.

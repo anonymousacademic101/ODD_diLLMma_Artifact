@@ -1,0 +1,3 @@
+YES
+
+The road we are driving on is indeed an intersection. This can be determined because there are traffic lights set up to control traffic crossing in perpendicular directions and also visible are road markings that designate lanes for different directions of traffic, including a left-turn only lane. Furthermore, crosswalks and pedestrian signals are visible, which indicates the crossing of pedestrian paths typically found at intersections.

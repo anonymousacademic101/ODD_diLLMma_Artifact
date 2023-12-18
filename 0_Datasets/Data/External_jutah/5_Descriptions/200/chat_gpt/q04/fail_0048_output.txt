@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. The horizontal orientation can be inferred from the layout of the road, the positioning of traffic signals and signage, and the direction of the parked vehicles on the side of the street, which are arranged parallel to the image frame.

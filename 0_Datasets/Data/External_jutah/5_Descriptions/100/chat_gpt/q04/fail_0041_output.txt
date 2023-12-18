@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. The traffic light and the orientation of the traffic and pedestrian crossing indicate that the road runs from left to right of the frame, thus horizontally as viewed in the image.

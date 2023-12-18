@@ -1,0 +1,3 @@
+The image shows a street with graffiti on the buildings on either side. There is a green light at the intersection.
+
+The answer is NO, the road is not a sharp curve.</s>

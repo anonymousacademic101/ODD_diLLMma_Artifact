@@ -1,0 +1,3 @@
+NO
+
+The road does not run horizontally across the image. The viewpoint of the image is from within a vehicle, and the road extends vertically from the bottom to the middle of the image, which corresponds to the forward direction of travel from the driver's perspective. There is no indication in the visible portion of the image that the road is an intersection. It appears to be a straight road with a lane for oncoming traffic visible across a yellow dividing line.

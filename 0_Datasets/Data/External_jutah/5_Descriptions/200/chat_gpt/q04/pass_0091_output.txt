@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. The orientation of the vehicles indicates that traffic is moving left and right across the image, and you can clearly see the lanes of the road extend horizontally from one side of the image to the other.

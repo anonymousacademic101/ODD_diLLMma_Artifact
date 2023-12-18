@@ -1,0 +1,3 @@
+NO
+
+The road we are driving on appears to run horizontally across the image. You can tell because the lanes of the road extend from the left to the right side of the frame, and traffic lights control the flow of traffic, indicating that it is a straightforward section of the road, not an intersection where roads would cross each other.

@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. This is indicated by the direction of parked cars, which are parallel to the bottom edge of the image, and the crosswalk lines, which are perpendicular to the flow of traffic, also implying a horizontal road.

@@ -1,0 +1,3 @@
+YES.
+
+While the immediate road in the foreground appears relatively flat, looking deeper into the image it's clear that the roads leading away from the intersection ascend into the background. There are structures perched at higher elevations, indicating a hilly terrain.

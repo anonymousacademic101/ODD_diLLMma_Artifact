@@ -1,0 +1,3 @@
+YES.
+
+We cannot see the actual layout of the road due to the camera perspective, but from the orientation of the buildings, it seems that we're on a road that runs horizontally across the image. Additionally, the fact that we can see the facade of the building in the foreground suggests that the road extends left and right from the viewpoint of the camera.

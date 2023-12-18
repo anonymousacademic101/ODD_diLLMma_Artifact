@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. We can determine this because the vehicles are shown parked and driving in a direction that is perpendicular to the viewer's perspective, which indicates that the road is extending left to right across the frame of the picture. Additionally, the road markings, such as the pedestrian crosswalk lines and vehicle lane markings, are oriented in a manner consistent with a horizontal roadway.

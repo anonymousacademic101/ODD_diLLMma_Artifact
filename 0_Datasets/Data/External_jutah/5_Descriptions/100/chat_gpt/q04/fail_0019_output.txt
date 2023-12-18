@@ -1,0 +1,3 @@
+YES
+
+The road we are driving on runs horizontally across the image. This is indicated by the layout of the road, the positioning of traffic signals, and the flow of traffic which is visible from left to right in the picture, suggesting a horizontal road rather than an intersection where roads would intersect each other in a more perpendicular fashion.

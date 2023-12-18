@@ -1,0 +1,3 @@
+YES
+
+The road we are driving on runs horizontally across the image. The photograph is taken from the perspective of a vehicle on the road, and we can see the lanes of traffic moving parallel to the bottom edge of the image, which indicates a horizontal orientation of the road within the frame of the photo.

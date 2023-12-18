@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. The visual clues that confirm this are the orientation of the cars, which are positioned perpendicular to the vertical axis of the image, the lane markings on the road that also run horizontally, and the traffic signals which face the direction of the traffic flow along the horizontal path of the road. The image is taken from inside a vehicle that is at a stop, waiting to proceed forward, towards the other side of the intersection.

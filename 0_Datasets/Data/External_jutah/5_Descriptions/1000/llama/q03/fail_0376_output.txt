@@ -1,0 +1,3 @@
+The image shows a street with a traffic light at an intersection. There are trees on both sides of the road, and the sky is cloudy.
+
+NO, the road is not an on-off ramp. It appears to be a residential street with a traffic light at an intersection. There are trees on both sides of the road, and the sky is cloudy.</s>

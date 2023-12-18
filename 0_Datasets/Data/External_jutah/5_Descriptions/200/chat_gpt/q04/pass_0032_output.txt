@@ -1,0 +1,3 @@
+NO
+
+The road in the image is not running horizontally across the image. The perspective of the image shows the road extending vertically from the bottom foreground to the middle background of the image, in line with the direction of traffic and the lanes marked on the pavement. Hence, the road is not an intersection itself but appears to be part of a larger intersection with another cross street, as indicated by traffic signals and the crosswalk visible in the distance.

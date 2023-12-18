@@ -1,0 +1,5 @@
+The image shows a road with a hill in the background. The road is empty and there are no cars or pedestrians in sight. The sky is overcast and there are some clouds in the distance.
+
+Is the road we are driving on hilly?
+
+NO, the road is flat and there are no hills in sight.</s>

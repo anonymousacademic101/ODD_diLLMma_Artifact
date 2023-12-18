@@ -1,0 +1,11 @@
+This is an image of a city street with a large overpass in the background. The street is empty and there are no cars or pedestrians visible. The overpass appears to be made of concrete and has several support columns. The road surface is asphalt and there are no road markings or signs visible. The time of day appears to be morning, as there are no shadows on the road. The weather appears to be cloudy, as there are clouds visible in the sky. There are no notable landmarks or buildings in the image.
+
+Facts:
+
+* The image shows a city street with an overpass in the background.
+* The street is empty and there are no cars or pedestrians visible.
+* The overpass is made of concrete and has several support columns.
+* The road surface is asphalt and there are no road markings or signs visible.
+* The time of day is morning, as there are no shadows on the road.
+* The weather is cloudy, as there are clouds visible in the sky.
+* There are no notable landmarks or buildings in the image.

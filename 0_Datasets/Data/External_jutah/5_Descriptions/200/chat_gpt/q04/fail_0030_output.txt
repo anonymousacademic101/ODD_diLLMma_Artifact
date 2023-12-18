@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. The direction of the vehicles, the alignment of the traffic lights, and road markings indicate that the perspective is such that we are looking across the street, not down the length of it. The curve of the road is also consistent with this viewpoint.

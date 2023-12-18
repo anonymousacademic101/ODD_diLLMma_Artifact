@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. The traffic lights are facing the viewer, indicating that the traffic is controlled for those traveling along the road that spans the width of the image. The painted road markings and the positioning of the vehicles also confirm that this is the direction of traffic flow. The "NO TURNS" signs additionally suggest the cross traffic is not on the same priority road, which further confirms this road is running horizontally as viewed in the image.

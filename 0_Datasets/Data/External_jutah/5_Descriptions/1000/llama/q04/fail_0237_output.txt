@@ -1,0 +1,5 @@
+The image shows a parking lot with several portable toilets lined up along the side of the road. The sky is cloudy and there are trees in the background.
+
+Is the road we are driving on an intersection, or does it run horizontally across the image?
+
+NO, the road does not run horizontally across the image. It appears to be a parking lot with several portable toilets lined up along the side of the road.</s>

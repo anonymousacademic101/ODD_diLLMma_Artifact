@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image as indicated by the direction of the vehicles and lane markings, which extend from the foreground to the background in a straight horizontal manner. An intersection would typically exhibit roads that cross each other or have traffic signals, signs, or markings indicating crossing or turning options.

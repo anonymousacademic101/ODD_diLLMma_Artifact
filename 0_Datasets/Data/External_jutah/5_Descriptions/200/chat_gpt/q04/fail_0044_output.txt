@@ -1,0 +1,3 @@
+YES
+
+The image shows a road that runs horizontally across the image. This can be concluded because the visible lane markings, vehicles, and the traffic light orientation indicate that traffic flow is perpendicular to the vertical axis of the photo. The lanes and crosswalks are consistent with a horizontal roadway layout rather than an intersection where one would typically expect to see intersecting traffic flows and additional sets of traffic lights for cross traffic.

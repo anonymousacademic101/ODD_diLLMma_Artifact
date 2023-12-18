@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image from the perspective of the camera. The lanes are laid out parallel to the bottom edge of the photograph, extending from the left to the right side of the frame, indicating a horizontal orientation relative to the image itself.

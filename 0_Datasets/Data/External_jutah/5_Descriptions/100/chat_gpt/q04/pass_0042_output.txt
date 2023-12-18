@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. You can tell because the traffic lights and cars are oriented across the picture from left to right, suggesting the flow of traffic is along the horizontal axis. There are also lane markings on the road that align horizontally with the image perspective.

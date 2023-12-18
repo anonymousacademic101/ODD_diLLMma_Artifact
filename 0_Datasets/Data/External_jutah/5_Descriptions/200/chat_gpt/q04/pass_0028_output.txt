@@ -1,0 +1,3 @@
+YES
+
+The road is at an intersection. The presence of traffic signals, crosswalks, and road markings indicate that this is where two roads meet, forming an intersection. Additionally, there's a street sign hanging above the road that intersects from the right side of the image, confirming the presence of an intersection.

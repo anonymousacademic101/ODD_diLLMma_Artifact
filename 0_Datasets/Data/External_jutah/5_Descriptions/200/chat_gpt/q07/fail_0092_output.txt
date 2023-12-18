@@ -1,0 +1,3 @@
+YES
+
+There are lights from oncoming headlights in the center of the image that appear quite bright relative to the surrounding scene. These lights are not overwhelmingly bright, but they are noticeable and form small starbursts due to the camera's aperture, which is a common artifact when capturing points of bright light in photography. However, there is no direct sunlight into the camera since it is a nighttime scene.

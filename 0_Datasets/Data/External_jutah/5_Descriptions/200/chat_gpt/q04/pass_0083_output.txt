@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image from the perspective of the camera. It is not an intersection where two or more roads cross at a 90-degree angle, but rather a continuous stretch of road that extends from the foreground to the background of the image, parallel to the bottom edge of the photograph.

@@ -1,0 +1,3 @@
+YES
+
+The road we are driving on is an intersection. This can be determined by the presence of traffic signals and crossing lanes with visible road markings for cross traffic, indicating that another road crosses perpendicularly to the one we are traveling on.

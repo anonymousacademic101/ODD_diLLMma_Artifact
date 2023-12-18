@@ -1,0 +1,3 @@
+The image shows a busy street with cars parked on the side of the road. There are also pedestrians walking on the sidewalk. The building in the background appears to be under construction, with scaffolding and dumpsters on the sidewalk.
+
+NO, there is no construction on the road. The building in the background is under construction, but there is no construction on the road.</s>

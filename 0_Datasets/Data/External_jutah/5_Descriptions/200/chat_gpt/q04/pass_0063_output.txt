@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. This can be inferred because the lanes and vehicles are oriented left to right in the photograph, which is a typical representation of a horizontally aligned roadway in an image. There is no visible intersection in the image where roads cross each other, and the flow of traffic is parallel, further indicating that the road runs horizontally.

@@ -1,0 +1,3 @@
+YES
+
+The road we are driving on runs horizontally across the image. Traffic lights are facing our direction of travel and green street signs perpendicular to our path indicate cross streets, typical of roads that run horizontally in a photograph taken from a vehicle's perspective.

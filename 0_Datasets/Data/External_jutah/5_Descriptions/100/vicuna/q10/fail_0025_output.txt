@@ -1,0 +1,10 @@
+This image shows a city street with several cars parked on the side of the road. The road is made of asphalt and has two lanes, one for each direction of traffic. There are traffic lights hanging from the overpass, indicating the flow of traffic. The overpass appears to be made of concrete and has pillars supporting it. There are no pedestrians visible in the image. The time of day appears to be daytime, as there is sunlight shining on the road and cars.
+
+Facts:
+
+* The image shows a city street with cars parked on the side of the road.
+* The road has two lanes, one for each direction of traffic.
+* There are traffic lights hanging from the overpass, indicating the flow of traffic.
+* The overpass appears to be made of concrete and has pillars supporting it.
+* There are no pedestrians visible in the image.
+* The time of day is daytime, as there is sunlight shining on the road and cars.

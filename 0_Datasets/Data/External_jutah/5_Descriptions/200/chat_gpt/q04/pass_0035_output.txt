@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. The image shows a road that is moving from the foreground to the background, with vehicles aligned parallel to the bottom edge of the image, indicating a horizontal direction. There are no visible indications of an intersection within the frame of the image; the road under the overpass continues straight, and lanes are marked in such a way that suggests through traffic rather than an intersection.

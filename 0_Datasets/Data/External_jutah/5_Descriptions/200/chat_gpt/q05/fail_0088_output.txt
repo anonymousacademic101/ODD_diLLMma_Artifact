@@ -1,0 +1,3 @@
+YES
+
+The roadway in the image has a designated bike lane. On the right side of the road, there's a cyclist within a lane that is visually separated by a painted line and bicycle symbols on the pavement, indicating it is a bike lane. There are no visible signs or road markings to suggest that there are other types of restricted lanes like bus lanes; however, we can only verify the presence of a bike lane with the given view.

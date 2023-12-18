@@ -1,0 +1,3 @@
+YES
+
+The road we are driving on runs horizontally across the image. This is indicated by the position of the vehicles stopped at the traffic lights, with the orientation of the road markings and crosswalks suggesting that this is a view along one of the streets of an intersection and the vehicles are facing towards the viewer's perspective. If we were at an intersection in the traditional sense of looking directly into it, we would see crossing traffic directly in front of us rather than alongside.

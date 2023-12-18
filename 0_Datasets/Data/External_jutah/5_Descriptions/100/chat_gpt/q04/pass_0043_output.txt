@@ -1,0 +1,3 @@
+YES
+
+The road appears to be an intersection. The image shows traffic lights which are vertical and horizontal, indicating that there are traffic directions that run both towards the camera and left to right across the image (horizontally). Additionally, there are visible crosswalk lines that run perpendicular to the viewer's perspective, indicating crossing points for pedestrians that typically mark intersections.

@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. This can be deduced from the orientation of vehicles, road markings indicating straight lanes, and traffic lights which are intended for traffic moving across the image from left to right or right to left.

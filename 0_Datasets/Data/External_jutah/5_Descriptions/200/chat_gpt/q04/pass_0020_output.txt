@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. We can tell because the lanes, signs, and direction of movement of the vehicles all align with a perspective that presents the road as extending from the bottom of the image to the top, indicating horizontal travel through the tunnel rather than an intersection.

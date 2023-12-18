@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image from the left to the right. This can be inferred from the perspective lines of the road converging towards the horizon, which indicates a horizontal path relative to the image's frame.

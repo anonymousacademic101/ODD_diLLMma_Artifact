@@ -1,0 +1,3 @@
+YES
+
+The road has horizontal orientation across the image. This is indicated by the position of the pedestrian crosswalks, road markings, and the placement of traffic signals which suggest that the viewpoint is from within an intersection looking across to the opposite side, where the road continues horizontally.

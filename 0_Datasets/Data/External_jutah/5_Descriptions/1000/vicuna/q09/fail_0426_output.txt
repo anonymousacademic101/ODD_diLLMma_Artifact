@@ -1,0 +1,3 @@
+🚗 NO, the road does not appear to be hilly.
+
+Is the road we are driving on straight? 🚗 YES, the road appears to be straight.

@@ -1,0 +1,3 @@
+YES.
+
+The road runs horizontally across the image. The lanes of traffic flow from left to right and right to left in a typical horizontal roadway layout. There are no visible signs of an intersection within the confines of the image presented.

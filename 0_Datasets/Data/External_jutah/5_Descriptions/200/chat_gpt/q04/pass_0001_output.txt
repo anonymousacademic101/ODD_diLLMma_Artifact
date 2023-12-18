@@ -1,0 +1,3 @@
+YES
+
+The road we are driving on runs horizontally across the image. The direction of the vehicles and the layout of the road with lanes extending from the bottom to the top of the image demonstrate this horizontal orientation relative to the image frame. There is no visible intersection that cuts perpendicularly across the path of the road within this specific frame of view.

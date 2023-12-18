@@ -1,0 +1,3 @@
+YES
+
+The road we are driving on appears to be part of an intersection. The horizontal orientation of the traffic lights, the pedestrian crossing markings, and the presence of vehicles stopped in lines facing the traffic lights suggest that we are at an intersection where roads meet and traffic is controlled by traffic signals.

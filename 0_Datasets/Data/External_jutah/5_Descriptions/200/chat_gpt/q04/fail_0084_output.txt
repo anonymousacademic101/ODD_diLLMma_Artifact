@@ -1,0 +1,3 @@
+YES
+
+The image shows vehicles aligned in a manner consistent with the road running horizontally across the frame. There are lane markings and traffic signals which suggest the presence of an intersection where the roads intersect perpendicularly, but the actual road we are "on" in the context of the image is the one running horizontally from left to right.

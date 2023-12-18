@@ -1,0 +1,3 @@
+YES
+
+The road we are driving on is an intersection. This can be deduced from the traffic lights and signage positioned to control traffic from multiple directions, indicating the presence of an intersection rather than a road running merely horizontally across the image.

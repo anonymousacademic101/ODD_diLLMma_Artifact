@@ -1,0 +1,7 @@
+The image shows an old, abandoned building with overgrown vegetation growing out of the walls. There is a car parked in front of the building, but it appears to be in disrepair. The road in the background appears to be a sharp curve.
+
+Please answer the following questions:
+
+1. Is the road we are driving on a sharp curve?
+2. Is the building abandoned?
+3. Is the car parked in front of the building in disrepair?</s>

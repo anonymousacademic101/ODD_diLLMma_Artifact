@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image from the perspective of the viewer. There is no visible intersection that disrupts the continuity of the road within the frame of the image.

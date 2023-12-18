@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. The vehicles are aligned parallel to the bottom edge of the image, which indicates that the road stretches horizontally from one side of the image to the other. Additionally, the positioning of the buildings and streetlights on either side conform to the perspective of a road extending in a horizontal direction.

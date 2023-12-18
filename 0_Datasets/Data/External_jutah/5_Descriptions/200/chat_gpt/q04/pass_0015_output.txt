@@ -1,0 +1,3 @@
+YES
+
+The road in the image runs horizontally across the image from the perspective of the camera. The cars are aligned in a horizontal direction, which suggests that the image captures the vehicles driving straight ahead on a road that stretches from the left to the right of the frame. There is no visible intersection that would make the road go across the image in a perpendicular manner.

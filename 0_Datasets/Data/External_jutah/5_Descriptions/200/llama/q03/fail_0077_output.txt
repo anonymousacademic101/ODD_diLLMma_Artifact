@@ -1,0 +1,5 @@
+The image shows a street with cars parked on the side of the road. There is a house on the left side of the street with a white picket fence in front of it. There is also a stop sign on the corner of the street.
+
+Is the road we are driving on an on-off ramp?
+
+NO, the road is not an on-off ramp. It appears to be a residential street with cars parked on the side of the road. There is a house on the left side of the street with a white picket fence in front of it. There is also a stop sign on the corner of the street.</s>

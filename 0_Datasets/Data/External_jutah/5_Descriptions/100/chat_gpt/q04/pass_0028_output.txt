@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. You can see the lanes of the road extending from the left to the right side of the image, with vehicles aligned parallel to the frame of the photo, indicating that the road runs horizontally across the field of view.

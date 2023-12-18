@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. The vehicles are arranged in a way that indicates the road's horizontal direction, with multiple lanes for traffic going in the same direction. Additionally, the organization of the road markings, signs, and traffic lights supports a horizontal orientation of the road across the image. There are no visible indicators that this is an intersection from the current perspective.

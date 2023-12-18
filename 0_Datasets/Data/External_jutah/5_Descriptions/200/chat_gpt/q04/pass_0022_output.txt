@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. The image shows a two-lane road extending from the foreground to the background in a horizontal direction relative to the image frame. The road does not appear to be at an intersection but continues straight ahead.

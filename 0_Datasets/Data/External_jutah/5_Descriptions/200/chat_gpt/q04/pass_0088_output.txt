@@ -1,0 +1,3 @@
+YES
+
+The road we are driving on does not appear to be an intersection within the immediate area shown in the image; instead, it runs horizontally across the image as evidenced by the direction of the vehicles, the orientation of the traffic signals, and the linear perspective of the roadway.

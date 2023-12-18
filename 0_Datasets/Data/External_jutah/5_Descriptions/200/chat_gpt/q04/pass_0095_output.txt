@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. You can tell because the vehicles are aligned in a straight line along the road, and the perspective of the buildings and lights indicates that the road extends from the left to the right side of the frame. There are no visible indications of an intersection in the immediate foreground of the image.

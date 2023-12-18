@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. You can tell this because the traffic light is green for the lane we are in and the lanes are visible extending to the left and right sides of the image. The perpendicular street name "Monroe" also indicates that the visible street (which would presumably be "Randolph") runs horizontally in this image.

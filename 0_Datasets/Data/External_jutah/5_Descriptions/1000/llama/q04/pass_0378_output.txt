@@ -1,0 +1,1 @@
+NO, the road we are driving on does not run horizontally across the image. It is a city street with tall buildings on either side.</s>

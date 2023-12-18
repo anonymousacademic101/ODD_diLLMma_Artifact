@@ -1,0 +1,3 @@
+YES
+
+The road appears to run horizontally across the image, as indicated by the arrangement of the lanes, traffic signals, and the general layout of the pavement and marked pedestrian crossings. The traffic signals are facing the direction that would control traffic moving left to right or right to left across the image, which suggests the main flow of traffic is horizontal in the image context.

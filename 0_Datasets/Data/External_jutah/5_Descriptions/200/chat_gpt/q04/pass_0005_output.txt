@@ -1,0 +1,3 @@
+YES
+
+The image shows an intersection. You can tell because there are traffic lights and crosswalks for traffic control, and there are clearly visible lanes that intersect perpendicularly with the road we are on. Additionally, there are cars on the road that runs horizontally across the image, waiting to cross or join the road we are on, further indicating it is an intersection.

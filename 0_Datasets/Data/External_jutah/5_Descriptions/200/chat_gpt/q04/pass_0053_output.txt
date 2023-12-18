@@ -1,0 +1,3 @@
+YES
+
+The road runs horizontally across the image. This can be deduced from the layout of the lanes, vehicles, and traffic signals which are all aligned in a way that indicates movement is primarily in a left-to-right or right-to-left direction in the plane of the image. Additionally, the lanes that would indicate an intersection (which would run perpendicular to the main road) are not predominantly featured in this image.
