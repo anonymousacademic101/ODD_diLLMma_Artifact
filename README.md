@@ -9,7 +9,7 @@ This repository is organized into several folders, each serving a specific purpo
 | Folder Name       | Description | ReadMe Link |
 |-------------------|-------------|-------------|
 | `0_Datasets`      | Contains the datasets used in our study. This includes three datasets (Open Pilot 2k19, Open Pilot Comma AI, JUtah) with steering data from openpilot, identified passing and failing scenarios, and descriptions of these scenarios using three LLMs (Vicuna, Llama, ChatGPT) and human analysis. | [ReadMe](./0_Datasets/README.md) |
-| `1_ProcessData`   | Houses the code to convert the original datasets into formats compatible with openpilot. It also includes scripts for identifying passing and failing tests based on openpilot's steering angles and selecting tests based on the identified scenarios. | [ReadMe](./1_ProcessData/README.md) |
+| `1_ProcessData`   | Houses the code to convert the original datasets into formats compatible with openpilot. It also includes scripts for identifying passing and failing tests based on openpilot's steering angles and selecting tests based on the identified scenarios. | [ReadMe](./1_ProcessDataset/README.md) |
 | `2_GenerateCaption`| Contains the code for generating captions using three LLMs (Vicuna, Llama, ChatGPT) and establishing a human baseline for comparison. | [ReadMe](./2_GenerateCaption/README.md) |
 | `3_GenerateResults`| Includes the code for parsing the results and generating the data presented in the study. This folder is integral for understanding the study's outcomes and conclusions. | [ReadMe](./3_GenerateResults/README.md) |
 | `Misc`| This include the data for both running the Vicuna and Llama models, as well as setting up OpenPilot | [ReadMe](./Misc/README.md) |

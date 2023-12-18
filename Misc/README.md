@@ -1,0 +1,1 @@
+This contains the code for setting up both miniGPT4 as well as openpilot. Please see relevant folder for each.
