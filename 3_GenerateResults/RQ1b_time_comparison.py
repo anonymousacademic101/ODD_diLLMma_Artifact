@@ -70,7 +70,7 @@ bax.tick_params(axis='both', which='major', labelsize=30)
 bax.grid()
 
 # Show the plot
-plt.savefig(f"./results/rq1a_time.png")
+plt.savefig(f"./results/rq1b_time.png")
 
 plt.show()
 plt.close()

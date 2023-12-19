@@ -152,6 +152,7 @@ for llm_index, llm_model in enumerate(requested_llm_models):
 # Convert to a numpy array
 non_violated_percentage = np.array(non_violated_percentage)
 array_string = repr(non_violated_percentage)
+print("Array used for RQ2b_area_calculations.py")
 print(array_string)
 
 # Repeat the first value to close the circular graph
@@ -184,6 +185,6 @@ plt.legend(loc='upper right', bbox_to_anchor=(0.1, 0.1), fontsize=45)
 
 # Show the plot
 plt.tight_layout()
-plt.savefig(f"./results/rq1b_{args.dataset}_{args.pass_fail}.png")
+plt.savefig(f"./results/rq2a_{args.dataset}_{args.pass_fail}.png")
 if args.show_plot:
     plt.show()

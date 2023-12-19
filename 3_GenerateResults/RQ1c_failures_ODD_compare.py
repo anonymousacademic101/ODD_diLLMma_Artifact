@@ -252,7 +252,7 @@ if args.dataset == "External_jutah":
 
 # Display the plot
 plt.tight_layout()
-plt.savefig(f"./results/rq1a_{args.dataset}_{args.baseline}.png")
+plt.savefig(f"./results/rq1c_{args.dataset}_{args.baseline}.png")
 if args.show_plot:
     plt.show()
 plt.close()

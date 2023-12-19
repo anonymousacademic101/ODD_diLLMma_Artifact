@@ -248,7 +248,7 @@ plt.grid(which='minor', linestyle='--', linewidth='0.5', color='gray')
 
 # Show the plot
 plt.tight_layout()
-plt.savefig(f"./results/rq2a_{args.dataset}.png")
+plt.savefig(f"./results/rq3_{args.dataset}_{args.clustering_iterations}.png")
 if args.show_plot:
     plt.show()
 plt.close()
