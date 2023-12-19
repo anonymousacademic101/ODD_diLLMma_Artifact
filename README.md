@@ -61,7 +61,7 @@ Finally it will show you how to both run quick approximations of the results in 
 
 ## Quick Start: Running OpenPilot and MiniGPT
 
-This repository also describes how the data was generated. If you want to generate your own data you can follow the [0_SetupDocumentation](./0_SetupDocumentation/README.md)/. However please note setting this up requires significantly more time than just reproducing the results from the data provided in this repository.
+This repo also contains the code used to generate the openpilot steering angles and LLM responses. If you want to run ODD-diLLMma on your own data you can follow this [README](./0_SetupDocumentation/README.md)/. However please note setting this up requires significantly more time than just reproducing the results from the data provided in this repository.
 
 ### Openpilot
 
@@ -73,20 +73,20 @@ This [README](./0_SetupDocumentation/OpenPilot_Setup/README.md) describes how to
 
 This [README](./0_SetupDocumentation/OpenPilot_Setup/README.md) describes how to set up [MiniGPT4](https://github.com/Vision-CAIR/MiniGPT-4), and run it on large volumes of image data as it can be seen doing below:
 
-<!-- TODO -->
+![minigpt-4 example usage](./Misc/minigpt_example.png)
 
 
 ## Repository Structure
 
 This repository is organized into several folders, each serving a specific purpose in our study. Below is a table detailing each folder, its contents, and a link to the corresponding ReadMe for more in-depth information.
 
-| Folder Name       | Description | README Link |
-|-------------------|-------------|-------------|
-| `3_GenerateResults`| 	Code for analyzing study results and data presentation. Key to understanding study outcomes. | [README](./3_GenerateResults/README.md) |
-| `2_GenerateCaption`| Code for caption generation using Vicuna, Llama, ChatGPT, and human benchmarking. | [README](./2_GenerateCaption/README.md) |
-| `1_ProcessData`   | Code for data conversion to openpilot formats and data subset selection based on openpilot steering data. | [README](./1_ProcessDataset/README.md) |
-| `0_Datasets`      | Contains three datasets with openpilot steering data and scenario descriptions by three LLMs and humans. | [README](./0_Datasets/README.md) |
-| `0_SetupDocumentation`| Guides for setting up local LLM models and OpenPilot | [README](./0_SetupDocumentation/README.md) |
+| Folder Name            | Description                                                                                                  | README Link 								  |
+|------------------------|--------------------------------------------------------------------------------------------------------------|---------------------------------------------|
+| `0_SetupDocumentation` | Guides for setting up local LLM models and OpenPilot 														| [README](./0_SetupDocumentation/README.md)  |
+| `0_Datasets`           | Contains three datasets with openpilot steering data and scenario descriptions by three LLMs and humans. 	| [README](./0_Datasets/README.md) 			  |
+| `1_ProcessData`        | Code for data conversion to openpilot formats and data subset selection based on openpilot steering data. 	| [README](./1_ProcessDataset/README.md) 	  |
+| `2_GenerateCaption`    | Code for caption generation using Vicuna, Llama, ChatGPT, and human benchmarking. 							| [README](./2_GenerateCaption/README.md)  	  |
+| `3_GenerateResults`    | Code for analyzing study results and data presentation. Key to understanding study outcomes. 				| [README](./3_GenerateResults/README.md) 	  |
 
 Please refer to the individual ReadMe files in each folder for detailed information about the contents and their usage.
 
