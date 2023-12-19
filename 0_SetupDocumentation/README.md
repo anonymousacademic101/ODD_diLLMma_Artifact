@@ -3,10 +3,12 @@
 This section contains essential setup instructions for the tools used in our study: openpilot and MiniGPT4. Each folder (`OpenPilot_Setup` and `MiniGPT4_Setup`) includes detailed READMEs to guide you through the setup process.
 
 ## Openpilot Setup
-- **Purpose:** [Openpilot](https://github.com/commaai/openpilot), our base Driving Automation System, was instrumental in processing data from the `0_Datasets` folder, identifying both passing and failing inputs.
+- **Purpose:** [Openpilot](https://github.com/commaai/openpilot), our base Driving Automation System openpilot, was given data the `0_Datasets` folder. The steering angle produced was then used to identify both passing and failing inputs.
 - **Setup Instructions:** For detailed setup steps, please refer to the README in the `OpenPilot_Setup` folder.
 
-(insert image)
+Here is an example of openpilot whose setup is described in `2023_03` running on data from the comma.ai 2k19 dataset.
+
+![openpilot running on the data from 2023_03](../Misc/2023_03.gif)
 
 ## MiniGPT4 Setup
 - **Overview:** We used [MiniGPT4](https://github.com/Vision-CAIR/MiniGPT-4), commit X. MiniGPT4 integrates a vision encoder with a pretrained ViT, Q-Former, and advanced Vicuna and Llama 2 language models.

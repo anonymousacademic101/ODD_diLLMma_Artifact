@@ -60,3 +60,6 @@ Include a screenshot of the expected output for clarity.
 Troubleshooting
 Provide common issues and their solutions.
 Contact information for further assistance.
+
+
+./run_model.sh vicuna OpenPilot_utah 1

@@ -37,3 +37,7 @@ $ python3 select_human_agreed.py --size 200 --human_models "research_a, research
 $ python3 select_human_agreed.py --size 200 --human_models "research_a, research_b, research_c" --dataset OpenPilot_2k19 --selection_strategy "worst_case"
 $ python3 select_human_agreed.py --size 200 --human_models "research_a, research_c, research_b" --dataset External_jutah --selection_strategy "worst_case"
 ```
+
+## Generating Vicuna and Llama 2 Descriptions
+
+Please refer to this [README](../0_SetupDocumentation/OpenPilot_Setup/README.md)  for instructions on how to set up Vicuna and Llama to run locally.

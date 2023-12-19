@@ -4,11 +4,21 @@ Although driving automation systems (DASs) are rapidly becoming more advanced an
 
 ![Overview of ODD-diLLMma](Misc/overview.png)
 
-## Reproducing Results in Paper - Quick Start
+## Prerequisites
 
-To quickly reproduce the results in the paper please refer to the [3_GenerateResults README](./3_GenerateResults/README.md)/
+This software was run on Ubuntu 20.04. We require you to have [conda](https://docs.conda.io/en/latest/) installed. Once [conda](https://docs.conda.io/en/latest/) is installed you can create the conda environment required for this using:
 
-This will present the command used to generate the results from RQ1:
+```bash
+conda create --name ODD --file requirements.txt
+```
+
+## Quick Start: Reproducing Results
+
+To quickly reproduce the results in the paper please refer to the `3_GenerateResults` [README](./3_GenerateResults/README.md)
+
+### RQ1 - Failures within the ODD
+
+First it presents the command used to generate the results from RQ1:
 
 ![RQ1 paper results](./Misc/rq1a_b.png)
 
@@ -16,7 +26,9 @@ And how these can be used to select the failures within the ODD presented in the
 
 ![RQ1 selected examples](./Misc/rq1_samples.png)
 
-It will walk you through how to generate the results from RQ2, for example the semantics from the failing tests from each dataset.
+### RQ2 - Compliance and Violation of ODD
+
+Next it describes how to generate the results from RQ2, for example the semantics from the failing tests from each dataset.
 
 ![RQ2 failure ODD semantic comparison](./Misc/rq2a_fail.png)
 
@@ -40,9 +52,28 @@ Model: ChatGPT-4V agreement with human
 	Average: 86.17%
 ```
 
-Finally it will show you how to both run quick approximations of the results in RQ3, as well as the full results presented in the paper (_WARNING: these results take up to an hour to generate_):
+### RQ3 - Grouping inputs by ODD semantics
+
+Finally it will show you how to both run quick approximations of the results in RQ3, as well as the full results presented in the paper (_NOTE_: these results take up to an hour to generate_):
 
 ![RQ3 approximate result comparison](./Misc/rq3_approximate.png)
+
+
+## Quick Start: Running OpenPilot and MiniGPT
+
+This repository also describes how the data was generated. If you want to generate your own data you can follow the [0_SetupDocumentation](./0_SetupDocumentation/README.md)/. However please note setting this up requires significantly more time than just reproducing the results from the data provided in this repository.
+
+### Openpilot
+
+This [README](./0_SetupDocumentation/OpenPilot_Setup/README.md) describes how to set up two versions of [Openpilot](https://github.com/commaai/openpilot), and run it on video data as shown below: 
+
+![openpilot running on the data from 2023_03](./Misc/2023_03.gif)
+
+### MiniGPT-4
+
+This [README](./0_SetupDocumentation/OpenPilot_Setup/README.md) describes how to set up [MiniGPT4](https://github.com/Vision-CAIR/MiniGPT-4), and run it on large volumes of image data as it can be seen doing below:
+
+<!-- TODO -->
 
 
 ## Repository Structure
