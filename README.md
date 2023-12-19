@@ -61,7 +61,7 @@ Finally it will show you how to both run quick approximations of the results in 
 
 ## Quick Start: Running OpenPilot and MiniGPT
 
-This repo also contains the code used to generate the openpilot steering angles and LLM responses. If you want to run ODD-diLLMma on your own data you can follow this [README](./0_SetupDocumentation/README.md)/. However please note setting this up requires significantly more time than just reproducing the results from the data provided in this repository.
+This repo also contains the code used to generate the openpilot steering angles and LLM responses. If you want to run ODD-diLLMma on your own data you can follow this [README](./0_SetupDocumentation/README.md). However please note setting this up requires significantly more time than just reproducing the results from the data provided in this repository.
 
 ### Openpilot
 
